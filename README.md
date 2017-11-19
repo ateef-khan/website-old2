@@ -2,6 +2,18 @@
 
 Source and content for the FRC Team 2984 website.
 
+# Contributing
+
+This site is compiled with [Metalsmith](http://www.metalsmith.io/), a static site generator. To use it, you'll need to install:
+
+- [Git](https://git-scm.com/) for revision control;
+- [Node.js](https://nodejs.org/en/) for language support;
+- [Atom](https://atom.io/) or another text editor with syntax highlighting
+
+Windows users will need to use [PowerShell](https://docs.microsoft.com/en-us/powershell/scripting/powershell-scripting?view=powershell-5.1), which is built into Windows 7+.
+
+A better option is a Unix-based operating system such as Ubuntu or OSX. You'll have fewer problems with running the console, linefeeds, and installing software.
+
 # Tasks
 
 ```bash
