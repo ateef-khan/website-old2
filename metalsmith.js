@@ -14,7 +14,7 @@ const app = metalsmith(__dirname)
   .destination('./build')
   .use(collections({
     posts: {
-      pattern: 'posts/*.md',
+      pattern: 'blog/*.md',
       sortBy: function (a, b) {
         return Date.parse(a.date) - Date.parse(b.date);
       },
@@ -24,14 +24,14 @@ const app = metalsmith(__dirname)
   .use(pagination({
     'collections.posts': {
       perPage: 10,
-      layout: 'posts.hbs',
-      first: 'posts/index.html',
-      path: 'posts/page/:num/index.html'
+      layout: 'blog.hbs',
+      first: 'blog/index.html',
+      path: 'blog/page/:num/index.html'
     }
   }))
   .use(metadata([
     {
-      pattern: 'posts/*.md',
+      pattern: 'blog/*.md',
       metadata: { layout: 'post.hbs' }
     }
   ]))
