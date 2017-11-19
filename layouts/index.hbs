@@ -1,10 +1,11 @@
 {{#extend "main"}}
   {{#content "style"}}
-  {{#if stylesheet }}
-    <link rel = "stylesheet" href = "/css/{{stylesheet}}.css">
-  {{else}}
-  {{/if}}
-    <!-- <link rel="stylesheet" href="/css/index.css"> -->
+    <link rel="stylesheet" href="/css/index.css">
+    {{#if styles}}
+      {{#each styles as |style|}}
+        <link rel = "stylesheet" href = "/css/{{style}}.css">
+      {{/each}}
+    {{/if}}
   {{/content}}
   {{#content "body"}}
     <article>
