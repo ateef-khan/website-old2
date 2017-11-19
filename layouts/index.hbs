@@ -11,15 +11,13 @@
     <article>
       <header>
           {{#if hide-title}}
-
+            {{!-- no-op --}}
           {{else}}
             <h1>{{title}}</h1>
           {{/if}}
       </header>
       <div class="main">
         {{{contents}}}
-
-      
     </article>
   {{/content}}
 {{/extend}}
