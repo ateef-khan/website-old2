@@ -1,0 +1,23 @@
+{{#extend "main"}}
+  {{#content "style"}}
+    <link rel="stylesheet" href="/css/posts.css">
+  {{/content}}
+  {{#content "body"}}
+    <ol class="posts">
+      {{#each pagination.files}}
+      <li>{{> post-summary }}</li>
+      {{/each}}
+    </ol>
+    <nav>
+      <ul>
+        {{#if pagination.previous}}
+        <li class="left"><a href="/{{pagination.previous.path}}">&#8592;&nbsp;Newer Posts</a></li>
+        {{/if}}
+        {{#if pagination.next}}
+        <li class="right"><a href="/{{pagination.next.path}}">Older Posts&nbsp;&#8594;</a></li>
+        {{/if}}
+      </ul>
+      <div style="clear: both;"></div>
+    </nav>
+  {{/content}}
+{{/extend}}

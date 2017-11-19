@@ -21,6 +21,14 @@ const app = metalsmith(__dirname)
       reverse: true
     }
   }))
+  .use(pagination({
+    'collections.posts': {
+      perPage: 10,
+      layout: 'posts.hbs',
+      first: 'posts/index.html',
+      path: 'posts/page/:num/index.html'
+    }
+  }))
   .use(metadata([
     {
       pattern: 'posts/*.md',
