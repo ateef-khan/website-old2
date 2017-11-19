@@ -1,8 +1,7 @@
 ---
-title: Scum people
+title: Donors
 layout: index.hbs
 hide-title: true
-footer: metalsmith-permalinks
 styles:
   - donors
 ---
