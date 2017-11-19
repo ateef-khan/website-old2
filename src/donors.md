@@ -1,7 +1,6 @@
 ---
 title: Donors
 layout: index.hbs
-hide-title: true
 styles:
   - donors
 ---
@@ -11,6 +10,12 @@ styles:
 
 </div>
 
-<div class="sponsor-logos">
+- Dini Group
+- Lockheed-Martin
+- Qualcomm
+- Sperr
+- Quasar Federal Systems
+- Quasar
+- SolidWorks
+- CopyCove
 
-</div>
