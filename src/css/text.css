@@ -10,5 +10,35 @@ article .main h2 {
 
 article .main p {
   margin-bottom: 1em;
+  line-height: 1.4em;
+}
+
+article .main img {
+  max-width: 100%;
+  margin: 0 auto;
+  display: block;
+  padding-bottom: 0.5em;
+}
+
+article .main ol, article .main ul {
+  margin-bottom: 1em;
+  margin-left: 0;
+  padding-left: 1.5em;
+}
+
+article .main ul {
+  list-style: disc outside none;
+}
+
+article .main li {
   line-height: 1.3em;
+  margin-bottom: 0.5em;
+}
+
+article .main strong {
+  font-weight: bold;
+}
+
+article .main em {
+  font-style: italic;
 }
