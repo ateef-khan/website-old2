@@ -1,0 +1,14 @@
+article .main h1 {
+  font-size: 125%;
+  margin-bottom: 0.5em;
+}
+
+article .main h2 {
+  font-weight: bold;
+  margin-bottom: 0.5em;
+}
+
+article .main p {
+  margin-bottom: 1em;
+  line-height: 1.3em;
+}

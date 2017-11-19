@@ -1,6 +1,17 @@
+article {
+  margin-bottom: 2em;
+  padding-bottom: 0.5em;
+  border-bottom: 1px dotted #a0a0a0;
+}
+
+article header {
+  margin-bottom: 0.5em;
+}
+
 article header h1 {
+  font-weight: bold;
   font-size: 150%;
-  margin-bottom: 0.1em;
+  margin-bottom: 0.4em;
 }
 
 article header h2 {

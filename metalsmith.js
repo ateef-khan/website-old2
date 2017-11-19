@@ -32,7 +32,7 @@ const app = metalsmith(__dirname)
   .use(metadata([
     {
       pattern: 'posts/*.md',
-      metadata: { layout: 'index.hbs' }
+      metadata: { layout: 'post.hbs' }
     }
   ]))
   .use(markdown({
