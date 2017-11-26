@@ -119,3 +119,48 @@ npm start
 You can preview a post directly from Atom without running Metalsmith.
 
 First, install [Atom Markdown Preview](https://github.com/atom/markdown-preview) if it isn't already. To preview, press ctrl-shift-m (or command-shift-m on OSX).
+
+Markdown features available in posts include:
+
+- image: `![Description](/images/posts/{timestamp}/{filename})` where `{timestamp}` is the timestamp for the post in YYYYMMDD format (e.g., 20171126) and `{filename}` is the name of the file including extension (e.g., `awesome.png`)
+- link: `[anchor text]({url})` where `url` is the path to the link. `{url}` can be relative or absolute. Relative links direct outside of the site (e.g., google.com) and internal links direct inside the site (e.g., /donors/)
+- bold: `**really important**`
+- italic: `*emphasize this*`
+- list: `- {item}` where `{item}` is the think you're listing. An item can contain other Markdown elements such as images and links
+- heading: H1 (`# {heading}`) and H2 (`## {heading}`) are supported, where `{heading}` is the heading text
+
+Here's an example post:
+
+```markdown
+---
+title: Hello, World!
+date: 2018-01-06 08:00:00
+updated: 2018-01-06 08:00:00
+author: John Smith
+---
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+Here is a robot image:
+
+![2016 Robot](/images/2016Robot.jpg)
+
+Here is a bulleted list:
+
+- one
+- two
+- buckle my shoe
+- *italic*
+- **bold**
+- [a link](https://www.firstinspires.org/robotics/frc)
+- Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco ...
+
+# This is an H1 Heading
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+## This in an H2 Heading
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+```
