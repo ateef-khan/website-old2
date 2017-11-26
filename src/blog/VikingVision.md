@@ -1,11 +1,11 @@
 ---
-title: Vision App
+title: Viking Vision
 date: 2017-11-25 14:00:00
-updated: 2017-11-25 14:00:00
+updated: 2017-11-26 10:00:00
 author: Max Apodaca
 ---
 
-![Vision App Displaing targets](/images/20171125/VisionAppRunning.JPG)
+![Viking Vision Displaing targets](/images/20171125/VisionAppRunning.JPG)
 
 In the pre-season we have been working on adapting the [Cheesy Poofs'](https://www.team254.com/) [vision tracking app](https://github.com/Team254/FRC-2017-Public/tree/master/vision_app). We have decided to use a phone to do the vision tracking next year as it offloads the processing from the roboRIO, provides an all in one vision solution, and is easier to debug.
 
@@ -45,4 +45,4 @@ To calculate the FOV of a camera place two objects at the edges of the image. Th
 Conclusion
 ===
 
- That is all that is necessary for the app to calculate the position of the target. After calculating the position the app sends the target's position to the roboRIO via the [Android Debug Bridge (ADB)](https://developer.android.com/studio/command-line/adb.html). The source code for the app can be found in the [Git Repository](https://github.com/FRCTeam2984/VisionApp).
+ That is all that is necessary for the app to calculate the position of the target. After calculating the position the app sends the target's position to the roboRIO via the [Android Debug Bridge (ADB)](https://developer.android.com/studio/command-line/adb.html). The source code for the app can be found in the [Git Repository](https://github.com/FRCTeam2984/VikingVision).
