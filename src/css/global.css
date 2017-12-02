@@ -64,6 +64,7 @@ body>footer {
 .internal-logo{
   display: block;
 }
+
 body>footer .school-address {
   margin-bottom: 1em;
 }
@@ -71,12 +72,14 @@ body>footer img {
   width: 4em;
 }
 
+  body {
+
+    background-color: darkgray;
+  }
+}
 @media only screen and (min-width: 500px) {
   .internal-logo{
     display:inline;
   }
-  body {
 
-    background-color: lightblue;
-  }
 }
