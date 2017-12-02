@@ -64,7 +64,13 @@ body>footer {
 .internal-logo{
   display: block;
 }
-@media only screen and (min-width: 50px) {
+
+body>footer .school-address {
+  margin-bottom: 1em;
+}
+body>footer img {
+  width: 4em;
+}
 
   body {
 
