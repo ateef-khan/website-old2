@@ -44,6 +44,7 @@ body>header li:last-child:after {
 body>header nav {
   margin-bottom: 1em;
   text-align: center;
+  line-height: 1.3em;
 }
 
 body>header>nav a {
