@@ -5,7 +5,6 @@ styles:
   - sponsors
 ---
 
-
 <div class="sponsor-video">
 
 </div>
