@@ -5,7 +5,7 @@ layout: page.hbs
 
 # 2984 Training
 
-- [SolidWorks Training](/solidworks-training/)
+- [SolidWorks Training](/courses/solidworks-training/)
 
 # Other Teams
 
