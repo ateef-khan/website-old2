@@ -1,6 +1,6 @@
 ---
 title: Sponsors
-layout: index.hbs
+layout: page.hbs
 styles:
   - sponsors
 ---

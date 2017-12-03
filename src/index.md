@@ -1,7 +1,9 @@
 ---
 title: Viking Robotics
-layout: index.hbs
+layout: page.hbs
 hide-title: true
+styles:
+  - index
 ---
 
 <div class="slideshow">
