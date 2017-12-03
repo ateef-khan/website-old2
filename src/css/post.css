@@ -16,3 +16,13 @@ article header h2 {
 article .main h1 {
   font-weight: bold;
 }
+
+article sup {
+  vertical-align: super;
+  font-size: smaller;
+}
+
+article sub {
+  vertical-align: sub;
+  font-size: smaller;
+}
