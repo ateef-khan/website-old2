@@ -9,7 +9,13 @@ styles:
 
 </div>
 
-# An Incomplete List
+# Call-to-Action
+
+## How to Contribute
+
+## Tiers
+
+# An Incomplete List of Sponsors
 
 - Dini Group
 - Lockheed-Martin
@@ -18,4 +24,4 @@ styles:
 - Quasar Federal Systems
 - Quasar
 - SolidWorks
-- CopyCove
+- Copy Cove
