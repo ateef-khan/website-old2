@@ -12,17 +12,3 @@ article header h2 {
   color: #a0a0a0;
   font-size: 90%;
 }
-
-article .main h1 {
-  font-weight: bold;
-}
-
-article sup {
-  vertical-align: super;
-  font-size: smaller;
-}
-
-article sub {
-  vertical-align: sub;
-  font-size: smaller;
-}

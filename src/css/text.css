@@ -1,3 +1,29 @@
+article header h1 {
+  font-weight: bold;
+  margin-bottom: 1em;
+  font-size: 140%;
+}
+
+article .main h1 {
+  font-weight: bold;
+  margin-bottom: 1em;
+  font-size: 110%;
+}
+
+article .main ul {
+  list-style: disc outside none;
+  margin-bottom: 1em;
+}
+
+article .main ul, article .main ol {
+  margin-left: 0;
+  padding-left: 2em;
+}
+
+article .main li {
+  margin-bottom: 0.5em;
+}
+
 article .main h1 {
   font-size: 125%;
   margin-bottom: 0.5em;
@@ -41,4 +67,14 @@ article .main strong {
 
 article .main em {
   font-style: italic;
+}
+
+article .main sup {
+  vertical-align: super;
+  font-size: smaller;
+}
+
+article .main sub {
+  vertical-align: sub;
+  font-size: smaller;
 }
