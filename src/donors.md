@@ -1,8 +1,8 @@
 ---
-title: Donors
+title: Sponsors
 layout: index.hbs
 styles:
-  - donors
+  - sponsors
 ---
 
 
@@ -20,4 +20,3 @@ styles:
 - Quasar
 - SolidWorks
 - CopyCove
-
