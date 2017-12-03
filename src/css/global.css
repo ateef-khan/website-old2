@@ -61,25 +61,25 @@ body>footer {
   padding: 3em 0 1em 0em;
   text-align: center;
 }
-.internal-logo{
-  display: block;
+
+body>footer>address {
+  margin-bottom: 0.5em;
 }
 
-body>footer .school-address {
-  margin-bottom: 1em;
+body>footer .social {
+  margin-top: 2em;
 }
+
 body>footer img {
   width: 4em;
 }
 
-  body {
-
-    background-color: darkgray;
-  }
+.internal-logo {
+  display: block;
 }
-@media only screen and (min-width: 500px) {
-  .internal-logo{
-    display:inline;
-  }
 
+@media only screen and (min-width: 500px) {
+  .internal-logo {
+    display: inline;
+  }
 }
