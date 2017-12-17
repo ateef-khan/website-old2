@@ -30,7 +30,7 @@ Robots must be able to do things such as throw and catch objects, scale objects,
 
 # Robots
 
-[![2015 Robot](/images/team/robobo-2015.jpg)](/)
+[![2015 Robot](/images/team/robobo-2015.jpg)](/robots/2015/)
 
 ![2014 Robot](/images/team/robot-2014.jpg)
 
