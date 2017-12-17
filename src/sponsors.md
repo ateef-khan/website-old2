@@ -5,17 +5,20 @@ styles:
   - sponsors
 ---
 
-<div class="sponsor-video">
+## Contribute by Check
 
-</div>
+Make Checks Payable To:
 
-# Call-to-Action
+The Foundation of La Jolla High School (RE: Robotics Club)
 
-## How to Contribute
+Mail To:
+La Jolla High School Attn:
+Melanie Saddler
+750 Nautilus St
+La Jolla,
+CA 92037
 
-## Tiers
-
-# An Incomplete List of Sponsors
+# Our Sponsors (in Progress!)
 
 - Dini Group
 - Lockheed-Martin
