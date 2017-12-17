@@ -79,6 +79,14 @@ article .main sub {
   font-size: smaller;
 }
 
+article .main address {
+  margin-bottom: 1em;
+}
+
+article .main address p {
+  margin-botton: 0.1em;
+}
+
 article .main .videowrapper {
   float: none;
   clear: both;
