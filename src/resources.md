@@ -6,6 +6,7 @@ layout: page.hbs
 # 2984 Training
 
 - [SolidWorks Training](/courses/solidworks-training/)
+- [First Robotics Competition Pneumatics Manual](/pdfs/pneumatics-manual.pdf)
 
 # Other Teams
 
