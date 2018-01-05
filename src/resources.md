@@ -11,6 +11,10 @@ layout: page.hbs
 - [Vision Tracking](/courses/vision-tracking/)
 - [SolidWorks](/courses/solidworks/)
 
+# Games
+
+- [Powerup 2018](/games/powerup-2018/)
+
 # FIRST Documentation
 
 - [First Robotics Competition Pneumatics Manual](/pdfs/pneumatics-manual.pdf)
