@@ -3,13 +3,10 @@ title: Powerup 2018
 layout: page.hbs
 ---
 
-<div class="videowrapper">
-  <iframe src="https://www.youtube.com/embed/MM_JWAON6PI" allowfullscreen></iframe>
-</div>
+FIRST Documents (encrypted files use the password "pLaY\&4%R3aL!"):
 
-Encrypted PDFs:
-
-- [Game Manual](/pdfs/2018FRCGameSeasonManual.pdf)
+- [Decrypted Game Manual](/pdfs/manual.pdf)
+- [Official Game Page](https://www.firstinspires.org/resource-library/frc/competition-manual-qa-system)
 - [Field Drawings Evergreen](/pdfs/FieldDrawings-evergreen.pdf)
 - [Field Drawings Powerup](/pdfs/FieldDrawings-FIRSTPOWERUPspecific.pdf)
 - [Layout and Markings Diagram](/pdfs/LayoutandMarkingDiagram.pdf)
