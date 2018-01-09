@@ -23,6 +23,10 @@ Mail checks to:
 # Our Sponsors (in Progress!)
 
 - Dini Group
+- Copy Cove of La Jolla
+- Xerox
+- Verance
+- Ace Hardware
 - Lockheed-Martin
 - Qualcomm
 - Sperr
