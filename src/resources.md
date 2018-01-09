@@ -13,7 +13,7 @@ layout: page.hbs
 
 # Games
 
-- [Powerup 2018](/games/powerup-2018/)
+- [Powerup 2018](/games/power-up-2018/)
 
 # FIRST Documentation
 
