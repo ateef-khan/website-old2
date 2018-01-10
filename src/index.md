@@ -22,12 +22,6 @@ In the first weeks of the build season we hold meetings to discuss the new compe
 
 We work on fundraising and recruiting new members year round! Our team hosts a table at Club Day and Welcome to LJHS events. We also visit local our local elementary and middle schools to provide information and foster and interest in engineering in younger students.
 
-# FIRST and FRC
-
-FIRST is a non-profit organization that organizes robotics competitions for K-12 students. FRC is the high school division of FIRST Robotics , in which teams from around the world compete in a six-week competition to build a robot for a new game each year that is released in January of each year.
-
-Robots must be able to do things such as throw and catch objects, scale objects, traverse obstacles, and lift and manipulate field components. Robots that compete in FRC are also larger than the small scale robots that compete in the lower division FLL and FTC competitions; our 2016 robot had a frame perimeter of 120 inches (28” X 32”), a ride height of 8 inches, and weighed in at 90 pounds.
-
 # Robots
 
 [![2015 Robot](/images/team/robobo-2015.jpg)](/robots/2015/)
