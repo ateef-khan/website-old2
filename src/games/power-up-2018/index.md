@@ -7,6 +7,7 @@ layout: page.hbs
 
 - [Decrypted Game Manual](/pdfs/manual.pdf)
 - [Official Game Page](https://www.firstinspires.org/resource-library/frc/competition-manual-qa-system)
+- [Update #1](/pdfs/manual-update-01.pdf)
 
 # Team Documentation
 
