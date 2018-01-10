@@ -3,6 +3,60 @@ title: Team
 layout: page.hbs
 ---
 
+# Members
+
+- Max Apodaca (Senior)
+  - Electrical and Software Lead
+  - Max is prepared to teach all the new members.
+- Tanvir Hussain Senior
+  - Communications Lead
+  - Tanvir is ready to leave behind a good monetary fund for the team.
+- Aden Hibbs Senior
+  - Mechanical Lead
+  - Aden is excited to win this year's competition.
+- Alex Gross Sophmore
+  - Logistics Lead
+  - Alex is looking forward to experiencing new things and the teamwork required this year.
+- Richard Chao Freshman
+  - Electrical and Software Member
+  - Richard wants to learn more about how robots work.
+- Bohan Chen Freshman
+  - Mechanical Member
+  - Bohan is prepared to break repair and break again everything in the room.
+- Aaron Goff Freshman
+  - Electrical and Software Member
+  - Aaron thinks that making robots is fuuuuun.
+- Niki Hartman Freshman
+  - Communications Member
+  - Niki is ready to make some friends with robots.
+- Tabitha Hibbs 8th Grade
+  - Mechanical Member
+  - Tabitha is excited to work with all the machines in the room.
+- Dylan Hicksonlong Senior
+  - Mechanical Member
+  - Dylan is ready to build a large and highly competent team.
+- Tahseen Hussain Senior
+  - Electrical and Software Member
+  - Tahseen is happy to make all the programs necessary to make the robot work.
+- Lukas Koziol Junior
+  - Communications Member
+  - Lukas is looking forward to making this website.
+- Grant Pauker Freshman
+  - Electrical and Software Member
+  - Grant is prepared to make something that works most of the time.
+- Cameron Reikes Freshman
+  - Electrical and Software Member
+  - Cameron is happy to work on the robot for six weeks.
+- Lily Sauer Freshman
+  - Mechanical Member
+  - Lily is looking forward to building the robot
+- Ben Winograd Freshman
+  - Mechanical Member
+  - Ben is ready to make and destroy pieces of the robot.
+- Eric Zhou Freshman
+  - Electrical and Software Member
+  - Eric hopes to get through the season without a scratch.
+
 # Information for Parents
 
 Our team takes safety as our top priority. We always have an adult with us when we are in the Robotics room. All students who operate the machinery are monitored to avoid accidents. Along with being safe we also get fed every Saturday due to the long hours we are at the room. This weekly lunch is usually paid for and retrieved by students but we are asking parents to spend some time helping out the team. More information can be found at 
