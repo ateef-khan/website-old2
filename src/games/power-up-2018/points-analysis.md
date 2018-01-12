@@ -1,5 +1,5 @@
 ---
-title: Powerup 2018
+title: Powerup 2018 Point Analysis
 layout: page.hbs
 ---
 
