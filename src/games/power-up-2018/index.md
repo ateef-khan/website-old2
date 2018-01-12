@@ -13,3 +13,4 @@ layout: page.hbs
 # Team Documentation
 
 - [Penalties](/games/power-up-2018/penalties/)
+- [Points Analysis](/games/power-up-2018/points-analysis/)
