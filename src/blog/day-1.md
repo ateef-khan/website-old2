@@ -1,5 +1,5 @@
 ---
-title: Power Up 2018 Kickoff
+title: Day 1 - Power Up 2018 Kickoff
 date: 2018-01-06 00:00:00
 updated: 2018-01-13 00:00:00
 author: Marshall McInerney Tanvir Hussain
