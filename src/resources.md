@@ -10,6 +10,7 @@ layout: page.hbs
 - [Wiring](/courses/wiring/)
 - [Vision Tracking](/courses/vision-tracking/)
 - [SolidWorks](/courses/solidworks/)
+- [Basic Git](/courses/git-basics/)
 
 ## Games
 
