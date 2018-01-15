@@ -14,3 +14,4 @@ layout: page.hbs
 
 - [Penalties](/games/power-up-2018/penalties/)
 - [Points Analysis](/games/power-up-2018/points-analysis/)
+- [Archetypes](/games/power-up-2018/archetypes/)
