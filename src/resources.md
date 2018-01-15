@@ -3,7 +3,7 @@ title: Resources
 layout: page.hbs
 ---
 
-## 2984 Training Courses
+# 2984 Training Courses
 
 - [Lathe](/courses/lathe/)
 - [Mill](/courses/mill/)
@@ -12,24 +12,24 @@ layout: page.hbs
 - [SolidWorks](/courses/solidworks/)
 - [Basic Git](/courses/git-basics/)
 
-## Games
+# Games
 
 - [Powerup 2018](/games/power-up-2018/)
 
-## FIRST Documentation
+# FIRST Documentation
 
 - [First Robotics Competition Pneumatics Manual](/pdfs/pneumatics-manual.pdf)
 - [Team Updates](https://firstfrc.blob.core.windows.net/frc2018/Manual/TeamUpdates/TeamUpdates-combined.pdf)
 
-## Third Party Documentation
+# Third Party Documentation
 
 - [OnShape Learning Center](https://learn.onshape.com/)
 
-## Supplies
+# Supplies
 
 - [RoboPromo Reversible Bumper System](http://www.robopromo.com/category_s/1825.htm)
 
-## General Resources
+# General Resources
 
 - [Cheesy Poofs Technical Binder](https://media.team254.com/2017/09/964207d8-technicalBinder2017.pdf)
 - [Cheesy Poofs Blog](https://www.team254.com/blog/)
