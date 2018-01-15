@@ -19,7 +19,6 @@ layout: page.hbs
 # FIRST Documentation
 
 - [First Robotics Competition Pneumatics Manual](/pdfs/pneumatics-manual.pdf)
-- [Team Updates](https://firstfrc.blob.core.windows.net/frc2018/Manual/TeamUpdates/TeamUpdates-combined.pdf)
 
 # Third Party Documentation
 
