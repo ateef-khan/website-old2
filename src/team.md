@@ -8,54 +8,110 @@ layout: page.hbs
 - Max Apodaca (Senior)
   - Electrical and Software Lead
   - Max is prepared to teach all the new members.
-- Tanvir Hussain Senior
+![Max Apodaca's Picture](/images/interview-pictures/ip-max-apodaca.jpg)
+- Tanvir Hussain (Senior)
   - Communications Lead
   - Tanvir is ready to leave behind a good monetary fund for the team.
-- Aden Hibbs Senior
+![Tanvir Hussain's Picture](/images/interview-pictures/ip-tanvir-hussain.jpg)
+- Aden Hibbs (Senior)
   - Mechanical Lead
   - Aden is excited to win this year's competition.
-- Alex Gross Sophmore
+![Aden Hibbs' Picture](/images/interview-pictures/ip-aden-hibbs.jpg)
+- Alex Gross (Sophmore)
   - Logistics Lead
   - Alex is looking forward to experiencing new things and the teamwork required this year.
-- Richard Chao Freshman
+<!--![Alex Gross' Picture](/images/interview-pictures/ip-alex-gross.jpg)-->
+- Jack Andrews (Sophmore)
+  - Mechanical Member
+  - Jack is excited to use some hacksaws.
+![Jack Andrews' Picture](/images/interview-pictures/ip-jack-andrews.jpg)
+- Warren Chang (Junior)
+  - Communications Member
+  - Warren wants to learn how to code a website.
+<!--![Warren Chang's Picture](/images/interview-pictures/ip-warren-chang.jpg)-->
+- Richard Chao (Freshman)
   - Electrical and Software Member
   - Richard wants to learn more about how robots work.
-- Bohan Chen Freshman
+![Richard Chao's Picture](/images/interview-pictures/ip-richard-chao.jpg)
+- Bohan Chen (Freshman)
+- Bohan Chen (Freshman)
   - Mechanical Member
   - Bohan is prepared to break repair and break again everything in the room.
-- Aaron Goff Freshman
+![Bohan Chen's Picture](/images/interview-pictures/ip-bohan-chen.jpg)
+- Steven Gazi (Senior)
+  - Electrical and Software Member
+  - Steven is ready to learn how to not shock himself.
+![Steven Gazi's Picture](/images/interview-pictures/ip-steven-gazi.jpg)
+- Aaron Goff (Freshman)
   - Electrical and Software Member
   - Aaron thinks that making robots is fuuuuun.
-- Niki Hartman Freshman
+<!--![Aaron Goff's Picture](/images/interview-pictures/ip-aaron-goff.jpg)-->
+- Niki Hartman (Freshman)
   - Communications Member
   - Niki is ready to make some friends with robots.
-- Tabitha Hibbs 8th Grade
+<!--![Niki Hartman's Picture](/images/interview-pictures/ip-niki-hartman.jpg)-->
+- Tabitha Hibbs (8th Grader)
   - Mechanical Member
   - Tabitha is excited to work with all the machines in the room.
-- Dylan Hicksonlong Senior
+![Tabitha Hibbs' Picture](/images/interview-pictures/ip-tabitha-hibbs.jpg)
+- Dylan Hickson Long (Senior)
   - Mechanical Member
   - Dylan is ready to build a large and highly competent team.
-- Tahseen Hussain Senior
+![Dylan Hickson Long's Picture](/images/interview-pictures/ip-dylan-hickson-long.jpg)
+- Tahseen Hussain (Senior)
   - Electrical and Software Member
   - Tahseen is happy to make all the programs necessary to make the robot work.
-- Lukas Koziol Junior
+![Tahseen Hussain's Picture](/images/interview-pictures/ip-tahseen-hussain.jpg)
+- Hannah Kim (Junior)
+  - Communications Member
+  - Hannah is looking forward to making this year's website.
+<!--![Hannah Kim's Picture](/images/interview-pictures/ip-hannah-kim.jpg)-->
+- Lukas Koziol (Junior)
   - Communications Member
   - Lukas is looking forward to making this website.
-- Grant Pauker Freshman
+<!--![Lukas Koziol's Picture](/images/interview-pictures/ip-lukas-koziol.jpg)-->
+- Monika Lyons (Junior)
+  - Mechanical Member
+  - Monika is happy to build the prototypes for this year.
+<!--![Monika Lyons' Picture](/images/interview-pictures/ip-monika-lyons.jpg)-->
+- Marshall McInerney (Freshman)
+  - Communications Member
+  - Marshall is ready to raise over $10,000 for his year in robotics.
+<!--![Marshall McInerney's Picture](/images/interview-pictures/ip-marshall-mcinerney.jpg)-->
+- Eric Na (Freshman)
+  - Electrical and Software Member
+  - Eric is prepared to learn something outside of regular class.
+<!--![Lukas Koziol's Picture](/images/interview-pictures/ip-lukas-koziol.jpg)-->
+- Grant Pauker (Freshman)
   - Electrical and Software Member
   - Grant is prepared to make something that works most of the time.
-- Cameron Reikes Freshman
+<!--![Grant Pauker's Picture](/images/interview-pictures/ip-grant-pauker.jpg)-->
+- Cameron Reikes (Freshman)
   - Electrical and Software Member
   - Cameron is happy to work on the robot for six weeks.
-- Lily Sauer Freshman
+<!--![Cameron Reikes' Picture](/images/interview-pictures/ip-cameron-reikes.jpg)-->
+- Lily Sauer (Freshman)
   - Mechanical Member
-  - Lily is looking forward to building the robot
-- Ben Winograd Freshman
+  - Lily is looking forward to building the robot.
+![Lily Sauer's Picture](/images/interview-pictures/ip-lily-sauer.jpg)
+- Ben Winograd (Freshman)
   - Mechanical Member
   - Ben is ready to make and destroy pieces of the robot.
-- Eric Zhou Freshman
+![Ben Winograd's Picture](/images/interview-pictures/ip-ben-winograd.jpg)
+- Eric Zhou (Freshman)
   - Electrical and Software Member
   - Eric hopes to get through the season without a scratch.
+![Eric Zhou's Picture](/images/interview-pictures/ip-eric-zhou.jpg)
+
+## Mentors
+- Rich Apodaca
+  - Software Mentor
+  - Rich is ready for his first as a mentor.
+<!---![Rich Apodaca's Picture](/images/interview-pictures/ip-rich-apodaca.jpg)-->
+- Jim Snook
+  - Mechanical Mentor
+  - Jim is happy that the new members are being taught before the new season starts.
+<!--![Jim Snook's Picture](/images/interview-pictures/ip-jim-snook.jpg)--->
 
 ## Information for Parents
 
