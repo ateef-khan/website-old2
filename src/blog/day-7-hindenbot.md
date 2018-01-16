@@ -15,3 +15,5 @@ Logistics has learned about the teams budget and how to make transactions.
 The team is optimistic and is on track to win this year.
 
 The mood is hindenbot.
+
+![Hindenbot plus others](/images/20180113/hindenbot-plus-others.jpg)

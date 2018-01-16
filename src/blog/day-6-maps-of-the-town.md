@@ -16,3 +16,5 @@ Communications finished learning html, css, and git.
 Logistics was taught to set orders for different parts.
 
 The mood is normal.
+
+![Map of Field](/images/20180112/map-of-field.jpg)

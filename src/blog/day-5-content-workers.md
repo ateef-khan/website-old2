@@ -14,3 +14,5 @@ Communications furthers their understanding of git and finishes up learning prog
 Logistics created an account for using Bank money.
 
 The mood is content.
+
+![Software working on Autonomous](/images/20180111/software-working-on-autonomous.jpg)

@@ -12,3 +12,8 @@ Mechanical is happy to begin designing field elements after being cooped up in t
 Communications is learning HTML to help code the website and make sure it stays up to par and Logistics continues to create a budget.
 
 The mood is joyus.
+
+<div class="videowrapper">
+  <iframe
+   src="https://www.youtube.com/embed/yg6UlXNQgn4" allowfullscreen></iframe>
+</div>
