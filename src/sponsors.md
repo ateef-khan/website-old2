@@ -23,14 +23,16 @@ Mail checks to:
 # Our Sponsors (in Progress!)
 
 - Dini Group
-- Copy Cove of La Jolla
 - Xerox
 - Verance
+<!--![Verance Logo](/images/sponsors/verance.svg)-->
 - Ace Hardware
+<!--![Ace Hardware Logo](/images/sponsors/ace-hardware.svg)-->
 - Lockheed-Martin
 - Qualcomm
 - Sperr
 - Quasar Federal Systems
 - Quasar
 - SolidWorks
+<!--![SolidWorks Logo](/images/sponsors/solidworks.svg)-->
 - Copy Cove
