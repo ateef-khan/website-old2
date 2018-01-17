@@ -76,6 +76,9 @@ We really appreciate your contribution to our team so that we can compete this y
 <p>
   <img src ="/images/copy-cove-logo.svg" alt = "Copy Cove">
 </p>
+<p>
+  <img src ="/images/sperr.png" alt = "Sperr">
+</p>
 - Dini Group
 - Xerox
 - Verance
