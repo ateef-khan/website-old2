@@ -13,6 +13,15 @@ Mechanical started on their prototypes to pick up powercube. Their ideas range f
 
 Watch your shins! Electrical furthered autonomous to a point that it can start in the center position and reach the switch. They also worked on this year's robot in the end making a drivable chassis.
 
+Watch the video below to see our autonomous! (It's onllly code)
+
 Logistics can now correctly see our current funds.
 
 Communications updated the blogs with pictures.
+
+The mood is generally good.
+
+<div class="videowrapper">
+  <iframe
+  src = "https://www.youtube.com/embed/j_XL0N1Axl" allowfullscreen></iframe>
+</div>
