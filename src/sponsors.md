@@ -20,6 +20,15 @@ Mail checks to:
   <p>La Jolla, CA 92037</p>
 </address>
 
+# A Thank You to our Sponsors!!!!
+
+<div class="videowrapper">
+  <iframe
+  src="https://www.youtube.com/embed/eyh2N6vR9TE" allowfullscreen></iframe>
+</div>
+
+We really appreciate your contribution to our team so that we can compete this year.
+
 # Our Sponsors (in Progress!)
 
 - Dini Group
