@@ -44,7 +44,7 @@ layout: page.hbs
 - **Aaron Goff** (Freshman)
   - Electrical and Software Member
   - Aaron thinks that making robots is fuuuuun.
-<!--![Aaron Goff's Picture](/images/interview-pictures/ip-aaron-goff.jpg)-->
+<!--!Aaron Goff would like to not have an interview picture-->
 - **Niki Hartman** (Freshman)
   - Communications Member
   - Niki is ready to make some friends with robots.
@@ -72,7 +72,7 @@ layout: page.hbs
 - **Monika Lyons** (Junior)
   - Mechanical Member
   - Monika is happy to build the prototypes for this year.
-<!--![Monika Lyons' Picture](/images/interview-pictures/ip-monika-lyons.jpg)-->
+![Monika Lyons' Picture](/images/interview-pictures/ip-monika-lyons.jpg)
 - **Marshall McInerney** (Freshman)
   - Communications Member
   - Marshall is ready to raise over $10,000 for his year in robotics.
