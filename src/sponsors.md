@@ -31,17 +31,59 @@ We really appreciate your contribution to our team so that we can compete this y
 
 # Our Sponsors (in Progress!)
 
+
+<p>
+  <img src ="/images/DiniGroup.svg" alt = "DiniGroup">
+</p>
+
+
+<p>
+  <img src ="/images/Xerox_Logo_2008.svg" alt = "Xerox">
+</p>
+
+<p>
+  <img src ="/images/Verance.svg" alt = "Verance">
+</p>
+<!--![Verance Logo](/images/sponsors/verance.svg)-->
+
+<p>
+  <img src ="/images/Ace_Hardware_Logo.svg" alt = "Ace Hardware">
+</p>
+<!--![Ace Hardware Logo](/images/sponsors/ace-hardware.svg)-->
+
+<p>
+  <img src ="/images/Lockheed_Martin.svg" alt = "Lockheed Martin">
+</p>
+
+<p>
+  <img src ="/images/Qualcomm-logo.svg" alt = "Qualcomm">
+</p>
+
+<p>
+  <img src ="/images/QFS_logo.svg" alt = "Quasar Federal Systems">
+</p>
+
+<p>
+  <img src ="/images/Quasar.svg" alt = "Quasar">
+</p>
+
+<p>
+  <img src -"/images/SolidWorks_Logo.svg" alt = "Solid Works">
+</p>
+
+<!--![SolidWorks Logo](/images/sponsors/SolidWorks_Logo.svg)!-->
+
+<p>
+  <img src ="/images/copy-cove-logo.svg" alt = "Copy Cove">
+</p>
 - Dini Group
 - Xerox
 - Verance
-<!--![Verance Logo](/images/sponsors/verance.svg)-->
 - Ace Hardware
-<!--![Ace Hardware Logo](/images/sponsors/ace-hardware.svg)-->
 - Lockheed-Martin
 - Qualcomm
-- Sperr
 - Quasar Federal Systems
 - Quasar
 - SolidWorks
-<!--![SolidWorks Logo](/images/sponsors/solidworks.svg)-->
 - Copy Cove
+- sperr
