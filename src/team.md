@@ -20,7 +20,7 @@ layout: page.hbs
 - **Alex Gross** (Sophmore)
   - Logistics Lead
   - Alex is looking forward to experiencing new things and the teamwork required this year.
-<!--![Alex Gross' Picture](/images/interview-pictures/ip-alex-gross.jpg)-->
+![Alex Gross' Picture](/images/interview-pictures/ip-alex-gross.jpg)
 - **Jack Andrews** (Sophmore)
   - Mechanical Member
   - Jack is excited to use some hacksaws.
@@ -28,7 +28,7 @@ layout: page.hbs
 - **Warren Chang** (Junior)
   - Communications Member
   - Warren wants to learn how to code a website.
-<!--![Warren Chang's Picture](/images/interview-pictures/ip-warren-chang.jpg)-->
+![Warren Chang's Picture](/images/interview-pictures/ip-warren-chang.jpg)
 - **Richard Chao** (Freshman)
   - Electrical and Software Member
   - Richard wants to learn more about how robots work.
@@ -48,7 +48,7 @@ layout: page.hbs
 - **Niki Hartman** (Freshman)
   - Communications Member
   - Niki is ready to make some friends with robots.
-<!--![Niki Hartman's Picture](/images/interview-pictures/ip-niki-hartman.jpg)-->
+  ![Niki Hartman's Picture](/images/interview-pictures/ip-niki-hartman.jpg)
 - **Tabitha Hibbs** (8th Grader)
   - Mechanical Member
   - Tabitha is excited to work with all the machines in the room.
@@ -68,7 +68,7 @@ layout: page.hbs
 - **Lukas Koziol** (Junior)
   - Communications Member
   - Lukas is looking forward to making this website.
-<!--![Lukas Koziol's Picture](/images/interview-pictures/ip-lukas-koziol.jpg)-->
+![Lukas Koziol's Picture](/images/interview-pictures/ip-lukas-koziol.jpg)
 - **Monika Lyons** (Junior)
   - Mechanical Member
   - Monika is happy to build the prototypes for this year.
@@ -76,19 +76,19 @@ layout: page.hbs
 - **Marshall McInerney** (Freshman)
   - Communications Member
   - Marshall is ready to raise over $10,000 for his year in robotics.
-<!--![Marshall McInerney's Picture](/images/interview-pictures/ip-marshall-mcinerney.jpg)-->
+![Marshall McInerney's Picture](/images/interview-pictures/ip-marshall-mcinerney.jpg)
 - **Eric Na** (Freshman)
   - Electrical and Software Member
   - Eric is prepared to learn something outside of regular class.
-<!--![Lukas Koziol's Picture](/images/interview-pictures/ip-lukas-koziol.jpg)-->
+![Lukas Koziol's Picture](/images/interview-pictures/ip-lukas-koziol.jpg)
 - **Grant Pauker** (Freshman)
   - Electrical and Software Member
   - Grant is prepared to make something that works most of the time.
-<!--![Grant Pauker's Picture](/images/interview-pictures/ip-grant-pauker.jpg)-->
+![Grant Pauker's Picture](/images/interview-pictures/ip-grant-pauker.jpg)
 - **Cameron Reikes** (Freshman)
   - Electrical and Software Member
   - Cameron is happy to work on the robot for six weeks.
-<!--![Cameron Reikes' Picture](/images/interview-pictures/ip-cameron-reikes.jpg)-->
+![Cameron Reikes' Picture](/images/interview-pictures/ip-cameron-reikes.jpg)
 - **Lily Sauer** (Freshman)
   - Mechanical Member
   - Lily is looking forward to building the robot.

@@ -5,7 +5,7 @@ updated: 2018-01-15 00:00:00
 author: Tanvir Hussain
 ---
 
-For many high schoolers Martin Luther King Day means a three-day weekend to kick and relax. For the students in Robotics it means another 8 hour day at school...*half-heartedly* Robotics!
+For many high schoolers Martin Luther King Day means a three-day weekend to kick and relax. For the students in Robotics it means another 8 hour day at school...*half-hearted* Robotics!
 
 Today was a turning point for the ages.
 
