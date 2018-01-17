@@ -23,6 +23,7 @@ layout: page.hbs
 # Third Party Documentation
 
 - [OnShape Learning Center](https://learn.onshape.com/)
+- [MIT Machine Shop Videos](https://www.youtube.com/playlist?list=PLF06SHGgSg4Fk5-yeh8DN3g6ZgaM0tbk7)
 
 # Supplies
 
