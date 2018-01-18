@@ -21,3 +21,5 @@ Communications is busy learning how to push the blog up by themselves (Me), taki
 
 Logistics is busy closing a 15 dollar gap in the account, working on the account, and general organization.
 ![A Legend Leaves After a Long Day of Work](/images/20180117/legend.jpg)
+
+The mood is doing anything once.
