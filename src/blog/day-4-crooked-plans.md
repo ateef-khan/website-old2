@@ -15,4 +15,4 @@ Communications learned the basics of github and ugh...more html and css. Logisti
 
 The mood is expectant.
 
-![Mechanical working on the Switch](/images/20180110/mechanical-working-on-switch.jpg)
+![Mechanical working on the Switch](/images/20180110/mechanical.jpg)
