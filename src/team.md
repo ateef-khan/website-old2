@@ -135,3 +135,10 @@ FIRST stands for “For Inspiration and Recognition of Science and Technology”
 ## Forms
 
 Members are asked to fill out an emergency contact form and take a safety test in order to be at the robotics club. The safety test can be found here along with a guide to help members know what to do and how to be safe.
+
+- [Emergency Contact Form](/pdfs/emergency-contact-form.pdf)
+
+YOU DON'T HAVE TO PRINT THE SAFETY TEST!!!!! Just the answers.
+
+- [Safety Test Study Guide](/pdfs/robotics-study-guide.pdf)
+- [Safety Test](/pdfs/robotics-safety-test.pdf)
