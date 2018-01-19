@@ -16,10 +16,12 @@ Mechanical is now finalizing their prototypes for collecting cubes. There are no
 
 Logistics has ordered most of the items we will need specifically for this competition.
 
-![Dylan Being Happy](/images/20180116/dylan-being-happy.JPG)
+![Dylan Being Happy](/images/20180116/dylan-being-happy.jpg)
 
 Communications updated this blog and is created our thank you video for our sponsors. You can see it under the sponsor tab and again THANKS SPONSORS!!!
 
 Electrical is continuing to update their autonomous in the efforts to allow us to deliver to either side of the switch.
 
 ![Electrical working on autonomous](/images/20180116/electrical-working-on-autonomous.JPG)
+
+The mood is dependent on prototypes.
