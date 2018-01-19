@@ -22,6 +22,6 @@ Communications updated this blog and is created our thank you video for our spon
 
 Electrical is continuing to update their autonomous in the efforts to allow us to deliver to either side of the switch.
 
-![Electrical working on autonomous](/images/20180116/electrical-working-on-autonomous.JPG)
+![Electrical working on autonomous](/images/20180116/electrical-working-on-autonomous.jpg)
 
 The mood is dependent on prototypes.
