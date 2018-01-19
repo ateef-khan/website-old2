@@ -53,30 +53,30 @@ layout: page.hbs
 | Climb | 30 Points | 30 seconds |
 
 
-**Blocker**:  
+# Blocker:  
 Two main goals. The Exchange and Blocking. Ferrying cubes from the Cube Zone to the Exchange to gain the advantage through Powerups in the Vault. Transforms into a bigger robot to constantly blocks attempt to score the Scale. At the end sacrifices the glory to possibly Raise two of its Teammates to Face the Boss.
 
-_If completely uncontested_  
-**Total Points gained**: 215  
-**Total Points taken away from Enemy**: 1+ Load
+If completely uncontested  
+Total Points gained: 215  
+Total Points taken away from Enemy: 1+ Load
 
-**Heist**:  
+# Heist:  
 Focuses on one thing. Take. The. Enemy. Switch. In case of extreme awesomeness can also e tasked with Blocking. Climbs at the end.
 
-_If completely uncontested_  
-**Total points gained**: 30 Points  
-**Total points taken from the enemy**: 135 Points  
+If completely uncontested  
+Total points gained: 30 Points  
+Total points taken from the enemy: 135 Points  
 
-**Scaler**:  
+# Scaler:  
 Prioritizes the Scale giving 1pt per sec to us as well as taking away the opportunity for the enemy to score. To pour salt into the wound will try to gain control of the Enemy Switch. Climbs at the end.
 
-_If completely uncontested_  
-**Total Points**: 186 Points  
-**Total Points taken away from enemy**: 135 Points (If contested at scale cannot focus on switch)
+If completely uncontested  
+Total Points: 186 Points  
+Total Points taken away from enemy: 135 Points (If contested at scale cannot focus on switch)
 
-**Patroller**:  
+# Patroller:  
 Prioritizes the Scale giving 1pt per sec to us as well as taking away the opportunity for the enemy to score. To effectively double our points gains control of our Switch. Climbs at the end.
 
-_If completely uncontested_  
-**Total Points without Switch**: 186 Points  
-**Total Points with Switch**: 291 Points (If contested at scale cannot focus on switch
+If completely uncontested  
+Total Points without Switch: 186 Points  
+Total Points with Switch: 291 Points (If contested at scale cannot focus on switch
