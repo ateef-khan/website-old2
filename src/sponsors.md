@@ -68,7 +68,7 @@ We really appreciate your contribution to our team so that we can compete this y
 </p>
 
 <p>
-  <img src -"/images/SolidWorks_Logo.svg" alt = "Solid Works">
+  <img src ="/images/SolidWorks_Logo.svg" alt = "Solid Works">
 </p>
 
 <!--![SolidWorks Logo](/images/sponsors/SolidWorks_Logo.svg)!-->
