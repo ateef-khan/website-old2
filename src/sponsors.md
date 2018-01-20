@@ -87,7 +87,7 @@ We really appreciate your contribution to our team so that we can compete this y
 </a>
 <a href = "http://www.sperr.de/" target="_blank" rel="external">
 <p>
-  <img src ="/images/sperr.png" alt = "Sperr">
+  <img src ="/images/sperrlogo.svg" alt = "Sperr">
 </p>
 </a>
 - Dini Group
