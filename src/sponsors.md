@@ -32,35 +32,35 @@ We really appreciate your contribution to our team so that we can compete this y
 # Our Sponsors (in Progress!)
 <a href = "https://www.qualcomm.com" target="_blank" rel="external">
 <p>
-  <img src ="/images/Qualcomm-logo.svg" alt = "Qualcomm">
+  <img src ="/images/sponsors/qualcomm-logo.svg" alt = "Qualcomm">
 </p>
 </a>
 <a href = "https://www.lockheedmartin.com/us.html" target="_blank" rel="external">
 <p>
-  <img src ="/images/Lockheed_Martin.svg" alt = "Lockheed Martin">
+  <img src ="/images/sponsors/lockheed-martin.svg" alt = "Lockheed Martin">
 </p>
 </a>
 <a href = "https://www.verance.com/" target="_blank" rel="external">
 <p>
-  <img src ="/images/Verance.svg" alt = "Verance">
+  <img src ="/images/sponsors/verance.svg" alt = "Verance">
 </p>
 </a>
 <a href = "http://www.dinigroup.com/web/index.php" target="_blank" rel="external">
 <p>
-  <img src ="/images/DiniGroup.svg" alt = "DiniGroup">
+  <img src ="/images/sponsors/dini-group.svg" alt = "DiniGroup">
 </p>
 </a>
 
 <a href = "https://www.xerox.com/" target="_blank" rel="external">
 <p>
-  <img src ="/images/Xerox_Logo_2008.svg" alt = "Xerox">
+  <img src ="/images/sponsors/xerox-logo-2008.svg" alt = "Xerox">
 </p>
 </a>
 
 <!--![Verance Logo](/images/sponsors/verance.svg)-->
 <a href = "http://www.acehardware.com/home/index.jsp" target="_blank" rel="external">
 <p>
-  <img src ="/images/Ace_Hardware_Logo.svg" alt = "Ace Hardware">
+  <img src ="/images/sponsors/ace-hardware-logo.svg" alt = "Ace Hardware">
 </p>
 </a>
 <!--![Ace Hardware Logo](/images/sponsors/ace-hardware.svg)-->
@@ -69,28 +69,28 @@ We really appreciate your contribution to our team so that we can compete this y
 
 <a href = "http://www.quasarfs.com/" target="_blank" rel="external">
 <p>
-  <img src ="/images/QFS_logo.svg" alt = "Quasar Federal Systems">
+  <img src ="/images/sponsors/qfs-logo.svg" alt = "Quasar Federal Systems">
 </p>
 </a>
 <a href = "http://www.quasarusa.com/" target="_blank" rel="external">
 <p>
-  <img src ="/images/Quasar.svg" alt = "Quasar">
+  <img src ="/images/sponsors/quasar.svg" alt = "Quasar">
 </p>
 </a>
 <a href = "http://www.solidworks.com/" target="_blank" rel="external">
 <p>
-  <img src ="/images/SolidWorks_Logo.svg" alt = "Solid Works">
+  <img src ="/images/sponsors/solidWorks-logo.svg" alt = "Solid Works">
 </p>
 </a>
 <!--![SolidWorks Logo](/images/sponsors/SolidWorks_Logo.svg)!-->
 <a href = "http://www.copycove.com/" target="_blank" rel="external">
 <p>
-  <img src ="/images/copy-cove-logo.svg" alt = "Copy Cove">
+  <img src ="/images/sponsors/copy-cove-logo.svg" alt = "Copy Cove">
 </p>
 </a>
 <a href = "http://www.sperr.de/" target="_blank" rel="external">
 <p>
-  <img src ="/images/sperrlogo.svg" alt = "Sperr">
+  <img src ="/images/sponsors/sperr-logo.svg" alt = "Sperr">
 </p>
 </a>
 <h1>Past Sponsors:</h1>
