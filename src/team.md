@@ -80,7 +80,7 @@ layout: page.hbs
 - **Eric Na** (Freshman)
   - Electrical and Software Member
   - Eric is prepared to learn something outside of regular class.
-![Lukas Koziol's Picture](/images/interview-pictures/ip-lukas-koziol.jpg)
+![Eric Na's Picture](/images/interview-pictures/ip-eric-na.jpg)
 - **Grant Pauker** (Freshman)
   - Electrical and Software Member
   - Grant is prepared to make something that works most of the time.
