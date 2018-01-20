@@ -6,7 +6,7 @@ styles:
   - index
 ---
 
-![Team 2984](/images/team/team-photo.jpg)
+![Team 2984](/images/team/team-photo-2018.jpg)
 
 We are a student run team from La Jolla High school. Our team usually has around 12 full time members, and as many as 20 part time members.
 
@@ -29,5 +29,3 @@ We work on fundraising and recruiting new members year round! Our team hosts a t
 ![2014 Robot](/images/team/robot-2014.jpg)
 
 ![2013 Robot](/images/team/robot-2013.jpg)
-
-
