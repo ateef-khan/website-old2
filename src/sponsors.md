@@ -30,7 +30,21 @@ Mail checks to:
 We really appreciate your contribution to our team so that we can compete this year.
 
 # Our Sponsors (in Progress!)
-
+<a href = "https://www.qualcomm.com" target="_blank" rel="external">
+<p>
+  <img src ="/images/Qualcomm-logo.svg" alt = "Qualcomm">
+</p>
+</a>
+<a href = "https://www.lockheedmartin.com/us.html" target="_blank" rel="external">
+<p>
+  <img src ="/images/Lockheed_Martin.svg" alt = "Lockheed Martin">
+</p>
+</a>
+<a href = "https://www.verance.com/" target="_blank" rel="external">
+<p>
+  <img src ="/images/Verance.svg" alt = "Verance">
+</p>
+</a>
 <a href = "http://www.dinigroup.com/web/index.php" target="_blank" rel="external">
 <p>
   <img src ="/images/DiniGroup.svg" alt = "DiniGroup">
@@ -42,11 +56,7 @@ We really appreciate your contribution to our team so that we can compete this y
   <img src ="/images/Xerox_Logo_2008.svg" alt = "Xerox">
 </p>
 </a>
-<a href = "https://www.verance.com/" target="_blank" rel="external">
-<p>
-  <img src ="/images/Verance.svg" alt = "Verance">
-</p>
-</a>
+
 <!--![Verance Logo](/images/sponsors/verance.svg)-->
 <a href = "http://www.acehardware.com/home/index.jsp" target="_blank" rel="external">
 <p>
@@ -54,16 +64,9 @@ We really appreciate your contribution to our team so that we can compete this y
 </p>
 </a>
 <!--![Ace Hardware Logo](/images/sponsors/ace-hardware.svg)-->
-<a href = "https://www.lockheedmartin.com/us.html" target="_blank" rel="external">
-<p>
-  <img src ="/images/Lockheed_Martin.svg" alt = "Lockheed Martin">
-</p>
-</a>
 
-<a href = "https://www.qualcomm.com" target="_blank" rel="external">
-<p>
-  <img src ="/images/Qualcomm-logo.svg" alt = "Qualcomm">
-</p>
+
+
 <a href = "http://www.quasarfs.com/" target="_blank" rel="external">
 <p>
   <img src ="/images/QFS_logo.svg" alt = "Quasar Federal Systems">
@@ -90,14 +93,20 @@ We really appreciate your contribution to our team so that we can compete this y
   <img src ="/images/sperrlogo.svg" alt = "Sperr">
 </p>
 </a>
-- Dini Group
-- Xerox
-- Verance
-- Ace Hardware
-- Lockheed-Martin
-- Qualcomm
-- Quasar Federal Systems
-- Quasar
-- SolidWorks
-- Copy Cove
-- sperr
+<h1>Past Sponsors:</h1>
+<div id ="Past spnsors">
+
+  <h2>Thank you for previously sponsoring us!</h2>
+  <p>
+
+  Viasat
+  <br>
+  IntelliSense
+  <br>
+  Nypro
+  <br>
+  Pizza On Pearl
+  <br>
+  The Neurosciences Institute
+  </p>
+</div>
