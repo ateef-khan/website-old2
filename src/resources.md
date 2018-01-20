@@ -15,6 +15,9 @@ layout: page.hbs
 # Games
 
 - [Powerup 2018](/games/power-up-2018/)
+- [Steamworks 2017](/games/steamworks-2017/)
+- [Stronghold 2016](/games/stronghold-2016/)
+- [Recycle Rush 2015](/games/recycle-rush-2015)
 
 # FIRST Documentation
 
