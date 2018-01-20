@@ -1,18 +1,21 @@
 ---
-title: Recycle Rush 2015 Robobobobobobobobobobo
+title: Recycle Rush Robobobobobobo
 layout: page.hbs
 ---
 
-# Official Documentation
+![2015 Robot](/images/team/robobo-2015.jpg)
 
-- [Recycle Rush Wiki](https://en.wikipedia.org/wiki/Recycle_Rush)
-- [Game Manual](/pdfs/recycle-rush-2015/manual.pdf)
-- [Game Manual Update 24 (combined Team Update)](/pdfs/recycle-rush-2015/team-updates.pdf)
-- [Game Field](/pdfs/recycle-rush-2015/field.pdf)
+Robobo was our team’s robot for the 2015 season. Its main purpose was to stack totes (boxes) which it did using an elevator mechanism. The elevators on the sides of the lifting cage would move up and down to pick up a tote. Every time they were up we would drive up to another tote and have it slide under the previous tote(s). Then we would lower the elevators and the hooks would release the lifted tote and grab on to the bottom tote. We could then repeat this process as many times as we wanted. The lifters included encoders so that the software could move them to the appropriate positions upon the direction of the operator.
 
-# Robobobobobobobobobobo
-This year had the last members who were around during the year that our team made it to Nationals. We had a lot of experience that was passed down and kept our team alive even if we didn't win much more.
+![Robobo Transmission](/images/team/robobo-transmission.jpg)
 
-Recycle Rush was a tough year for us. The competition was very limited in terms of things that we could do but that was no excuse for our team.
+A cool feature of our robot were the transmission. We made them ourselves which allowed us to incorporate the flexibility we needed into the design itself. Instead of being fixed in one position we were able to configure them into a multitude of positions. We could pivot the motor position around the belt portion, then the whole assembly could be rotated around the axle that it is attached to.
 
-Overall we could have our protoypes more as to try and make a reliable mechanism to pick up many totes.
+
+This was of great use to use because we had a very limited amount of space on our robot. In the front we needed to keep everything as close to the x-axis as possible. To do this we rotated the transmissions so that the motor was just above the axle but was displaced towards the back of the robot.
+
+# The Game
+
+<div class="videowrapper">
+  <iframe src="https://www.youtube.com/embed/W6UYFKNGHJ8" allowfullscreen></iframe>
+</div>
