@@ -33,3 +33,4 @@ layout: page.hbs
 
 - [Cheesy Poofs Technical Binder](https://media.team254.com/2017/09/964207d8-technicalBinder2017.pdf)
 - [Cheesy Poofs Blog](https://www.team254.com/blog/)
+- [Vikings Safety Guide](/courses/team-handbook/)
