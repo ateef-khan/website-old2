@@ -115,14 +115,6 @@ A possible Team Lead should have the following qualities:
 3. Legacy - Previous Team Lead believes the person to be an acceptable replacement
 4. Reliability - Has completed important tasks before to the best of their ability
 
-# Safety Guidelines
-
-At no point should someone feel unsafe or in danger of being in bodily harm. If someone were to feel this way they should immediately tell a mentor or a team lead so they can stop the problem from escalating.
-At all points when a member is inside the Robotics Room they must be wearing safety glasses regardless of what is going inside the room.
-Mentors and team leads should naturally be responsible and keep the culture of safety current.
-No machines should be left running without a member attending it. Do not point knives, drills or other dangerous items at people or yourself.
-Do not make improvised hand saws. Tell people when you get injured. Do not wash your injury alone behind a wall where nobody can see you.
-
 # Attendance Policy
 
 If a person does not notify a team lead before the day of absence they are considered as an unexcused absence, if they do notify a team lead they can be marked as an excused absence. If they are at the meeting but do not sign the sign-in sheet they are considered as an unexcused absence. A person who has more than 25% of the total meeting days marked as an unexcused absence is not considered part of the team. They can have as many excused absences but cannot hold any important responsibilities if they drop below 80% attendance rate.
