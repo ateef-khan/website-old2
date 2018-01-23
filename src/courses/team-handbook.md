@@ -4,17 +4,17 @@ layout: page.hbs
 ---
 # Table of Contents
 
-1. Introduction
-2. Requirements to join (During Preseason)
-3. Requirements to join (During Season)
-4. How to run a Team Meeting
-5. Attendance Policy
-6. Responsibilities of Members
-7. Responsibilities of Teams
-8. Responsibilities of a Team Lead
-9. Requirements to be a Team lead
-10. Safety Guidelines
-11. PDA and Relationships
+- Introduction
+- Requirements to join (During Preseason)
+- Requirements to join (During Season)
+- How to run a Team Meeting
+- Attendance Policy
+- Responsibilities of Members
+- Responsibilities of Teams
+- Responsibilities of a Team Lead
+- Requirements to be a Team lead
+- Safety Guidelines
+- PDA and Relationships
 
 # Introduction
 
