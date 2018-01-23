@@ -1,5 +1,5 @@
 ---
-title: Day 14
+title: Day 14 - Mentos and cough syrup
 date: 2018-01-22 00:00:00
 updated: 2018-01-22 00:00:00
 author: Marshall McInerney (Ready for action(and equal and opposite reaction))
@@ -14,3 +14,4 @@ Mechanical is working with the intake system, Lily is mounting it onto the robot
 ![The Intake Mechanism](/images/20180122/Intake.jpg)
 
 Electrical and software are just tuning the drive control for the robot and and creating a new controller for the motor controller (meaning were using a video game controller to move a Freaking robot).
+Mood: Butterflies in my stomach
