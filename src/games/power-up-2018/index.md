@@ -26,3 +26,4 @@ Our plan is to make the most viable prototypes early on as to try and get the be
 
 - [Everybot Thread](https://www.chiefdelphi.com/forums/showthread.php?t=161168)
 - [Everybot Model](https://cad.onshape.com/documents/6a195a8f5448c52496f191aa/w/40c72c2fb63c8efaf1939c14/e/08ef647c429fd3e62bbf734c)
+- [Everybot Build Guide](/pdfs/everybot-build-guide.pdf)
