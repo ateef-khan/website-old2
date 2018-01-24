@@ -5,8 +5,8 @@ layout: page.hbs
 
 This page calculates the maximum number of points that can be obtained by a perfect Alliance or Team. Assumptions include:
 
-- instant teleportation of a robot or Cube to anywhere on the field;
-- no defense by opponent.
+- Instant teleportation of a robot or Cube to anywhere on the field
+- No defense by opponent
 
 # Perfect Three-Team Alliance Match
 
