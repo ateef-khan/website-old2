@@ -37,34 +37,38 @@ Make sure to use **Ubuntu**/**Linux** this will allow you to be on the same leve
 
 To start open the _Terminal_ you can do so by opening the Application finder in the bottom left corner.
 
-Do these commands when you start using the Terminal
-git config --global user.name
-git config --global user.email
+Do these commands when you start using the Terminal:
 
-The way your local repository will work:  
-**Working Directory**-  
-Where you make changes to the code (Does not affect the main repository)  
-**Staging Area**-  
-The place before it the changes are committed  
-**Commit to Repository**-  
-Changes your local repository which can be pushed to the main repository  
+1. git config --global user.name
+2. git config --global user.email
+
+The way your local repository will work:
+
+**Working Directory**-
+Where you make changes to the code (Does not affect the main repository)
+
+**Staging Area**-
+The place before it the changes are committed
+
+**Commit to Repository**-
+Changes your local repository which can be pushed to the main repository
 
 When you want to make a new project:
 
-- 1 Open Github and create an account. Make your username and password simple because you will need to repeatedly enter this info when you make commits.
-- 2 Create a Directory, by typing mkdir _____  in the future make it descriptive but for now call it test. Don’t change any of the preset settings.
-- 3 Click back on Terminal. Use ls to see what is in the folder.
-- 4 You most likely have a Documents folder we will be using that one. If you don’t have one you can just make a folder. Use cd Documents to move into the documents directory.
-- 5 Use cd test to get into the test folder.
-- 6 Now use git init to create a file that will allow you to ‘push’ with Git
-- 7 To create the Repository use git remote ______ <url> name it origin
-- 8 Now you have an empty repository on your computer and a repository on Github
+1. Open Github and create an account. Make your username and password simple because you will need to repeatedly enter this info when you make commits.
+2. Create a Directory, by typing mkdir _____  in the future make it descriptive but for now call it test. Don’t change any of the preset settings.
+3. Click back on Terminal. Use ls to see what is in the folder.
+4. You most likely have a Documents folder we will be using that one. If you don’t have one you can just make a folder. Use cd Documents to move into the documents directory.
+5. Use cd test to get into the test folder.
+6. Now use git init to create a file that will allow you to ‘push’ with Git
+7. To create the Repository use git remote ______ <url> name it origin
+8. Now you have an empty repository on your computer and a repository on Github
 
-To write your first file and push to Repository:
+To. write your first file and push to Repository:
 
-- 1 Write something on Leafpad/Notepad
-- 2 Save it to the Directory named Test
-- 3 Click on the Terminal. Type git add -A
-- 4 Type git commit -m “First Commit”
-- 5 Type git push origin master
-- 6 Click on GitHub you know just changed the main version
+1. Write something on Leafpad/Notepad
+2. Save it to the Directory named Test
+3. Click on the Terminal. Type git add -A
+4. Type git commit -m “First Commit”
+5. Type git push origin master
+6. Click on GitHub you know just changed the main version

@@ -19,6 +19,7 @@ layout: page.hbs
 - [SolidWorks](/courses/solidworks/)
 - [Basic Git](/courses/git-basics/)
 - [Vikings Team Manual](/courses/team-manual/)
+- [Vikings Safety Guide](/courses/safety-guide/)
 
 # Third Party Documentation
 
