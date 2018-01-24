@@ -11,7 +11,9 @@ layout: page.hbs
 - [Live Game Field](https://cad.onshape.com/documents/9296b2e73daefa64660bc992/w/5092c5455497b9f5953b85b0/e/3dc1d546866866a0aca4fe2b)
 
 # Our Plan
+
 This year we are focusing heavily on the quality of our Robot. Electrical and Software already have a great headstart on autonomous code. Mechanical is planning to have two kitbots, one for driving the other for the E/S team.
+
 ![The Kitbot](/images/power-up-2018/the-kitbot.jpg)
 
 Our plan is to make the most viable prototypes early on as to try and get the best strategy possible by the end of the season.
