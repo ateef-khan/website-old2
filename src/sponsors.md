@@ -4,6 +4,14 @@ layout: page.hbs
 styles:
   - sponsors
 ---
+## How your donation will be used
+
+Your donation will be used in one of the following areas:
+
+- Registration for the events
+- Parts for the Robot
+- Transportation Costs
+- New Machines/ Repairing Machines
 
 ## Contribute by Check
 
