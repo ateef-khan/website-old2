@@ -19,4 +19,4 @@ Sadly that year didn't go too well. We ended up last at the San Diego Regional, 
 
 ![Side View Thunderclap](/images/steamworks-2017/side-thunderclap.jpg)
 
-More practice. The pilot needed to get to a point that he could get the gears in record time.
+More practice. The driver needed to get to a point that he could retrieve the gears in record time and the pilot needed to be adept in quickly lifting the gears up without losing them.
