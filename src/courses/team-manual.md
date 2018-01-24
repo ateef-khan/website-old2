@@ -4,17 +4,15 @@ layout: page.hbs
 ---
 # Table of Contents
 
-- Introduction
-- Requirements to join (During Preseason)
-- Requirements to join (During Season)
-- How to run a Team Meeting
-- Attendance Policy
-- Responsibilities of Members
-- Responsibilities of Teams
-- Responsibilities of a Team Lead
-- Requirements to be a Team lead
-- Safety Guidelines
-- PDA and Relationships
+- [Introduction](#introduction)
+- [Requirements to join (During Preseason)](#requirements-to-join-during-preseason-)
+- [Requirements to join (During Season)](#requirements-to-join-during-season-)
+- [How to run a Team Meeting](#how-to-run-a-team-meeting)
+- [Attendance Policy](#attendance-policy)
+- [Responsibilities of Members](#responsibilities-of-members)
+- [Responsibilities of Teams](#responsibilities-of-teams)
+- [Responsibilities of a Team Lead](#responsibilities-of-a-team-lead)
+- [PDA and Relationships](#pda-and-relationships)
 
 # Introduction
 
@@ -106,7 +104,7 @@ The team leads facilitate the jobs of the teams so that they can finish their jo
 2. Make sure each person in your team has a job
 3. Be the final say when there is no mentor available
 
-# Requirement to be a Team Lead
+# Requirements to be a Team Lead
 
 A possible Team Lead should have the following qualities:
 
