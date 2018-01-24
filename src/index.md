@@ -36,10 +36,6 @@ Robotics isn't just for STEM oriented students, we need a variety of people...in
 
 We work on fundraising and recruiting new members year round! Our team hosts a table at Club Day and Welcome to LJHS events. We also visit local our local elementary and middle schools to provide information and foster and interest in engineering in younger students.
 
-We also volunteer at local elementary schools to keep kids interested in robotics.
-
-[Community Outreach](/blog/community/)
-
 # Older Robots
 
 [![2015 Robot](/images/team/robobo-2015.jpg)](/robots/2015/)
