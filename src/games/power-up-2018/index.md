@@ -18,6 +18,12 @@ This year we are focusing heavily on the quality of our Robot. Electrical and So
 
 Our plan is to make the most viable prototypes early on as to try and get the best strategy possible by the end of the season.
 
+# The Game
+
+<div class="videowrapper">
+  <iframe src="https://www.youtube.com/embed/HZbdwYiCY74" allowfullscreen></iframe>
+</div>
+
 # Team Documentation
 
 - [Penalties](/games/power-up-2018/penalties/)
