@@ -88,5 +88,7 @@ Members are asked to fill out an emergency contact form and take a safety test i
 
 YOU DON'T HAVE TO PRINT THE SAFETY TEST!!!!! Just the answers.
 
+Do Problems 1 - 59, 70 - 83, 89, 94 - 95, 113 - 114. 
+
 - [Safety Test Study Guide](/pdfs/team-forms/robotics-study-guide.pdf)
 - [Safety Test](/pdfs/team-forms/robotics-safety-test.pdf)
