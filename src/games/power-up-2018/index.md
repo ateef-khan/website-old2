@@ -24,6 +24,12 @@ Our plan is to make the most viable prototypes early on as to try and get the be
   <iframe src="https://www.youtube.com/embed/HZbdwYiCY74" allowfullscreen></iframe>
 </div>
 
+# Prototype Models
+
+- [Intake](https://cad.onshape.com/documents/9a742c2b3ae3b9619f7df30c/w/37d0d75d55b6d68207bc554b/e/473dcccb675059f0d014c403)
+- [Lift](https://cad.onshape.com/documents/367b91bd47016c3169dde734/w/51568f6157a092ac3f1ae7e5/e/28002c834a7524f57ece7654)
+- [Skyhook](https://cad.onshape.com/documents/fea88e7288ddfbe8dbcb652b/w/b4d412302594897a9f4aad4d/e/c8b0c114789360d844931d98)
+
 # Team Documentation
 
 - [Penalties](/games/power-up-2018/penalties/)
