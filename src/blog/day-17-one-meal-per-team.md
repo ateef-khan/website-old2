@@ -35,6 +35,8 @@ This is a sloooooow motion top down view of the acquisition.
    src="https://www.youtube.com/embed/PPD9RE_gZxo" allowfullscreen></iframe>
 </div>
 
+Through these tests Mechanical has come to the conclusion that the longer they make the arms the more consistent acquisition is. Today they ended up with 100% acquisition when the arms are 9.5 inches long. This length works with the cube at any position (i.e. face on or tilted)
+ 
 Communications is continuting to redirect pages from old websites to this website!
 
 Drive team is making sure they know what skills they need by the end of the season. They will know what their roles are and what their strategy is in the next three weeks. The last week will be dedicated to perfecting what they already have.
