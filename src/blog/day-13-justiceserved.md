@@ -16,8 +16,6 @@ Communications is undertaking the large task of redesigning the website, like to
 
 Electronics is making the robot do things, such as fixing overshoot, adding protection to overshoot, making it so it finishes straight instead of crooked and making it so it can rapidly rotate because thats necessary for some reason. but at least it looks cool
 
-![The Training Grounds](/images/20180119/groundtest.JPG)
-
 <div class="videowrapper">
   <iframe
    src="https://www.youtube.com/embed/WBnt6uxIThI" allowfullscreen></iframe>
