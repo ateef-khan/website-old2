@@ -17,6 +17,7 @@ A cool feature of our robot were the transmission. We made them ourselves which 
 This was of great use to use because we had a very limited amount of space on our robot. In the front we needed to keep everything as close to the x-axis as possible. To do this we rotated the transmissions so that the motor was just above the axle but was displaced towards the back of the robot.
 
 # Our Shortcomings
+
 One thing we fell short on was testing the mechanism throughly. The elevator mechanism was a great idea yet we didn't create a prototype that showed that this would be a efficient idea to implement.
 
 # The Game

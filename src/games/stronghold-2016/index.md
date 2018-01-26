@@ -20,6 +20,7 @@ Our independent suspension between our 4 mecanum wheels was such a unique strate
 Maybe it was our small team or maybe we didn't plan too far in advance, but this year wasn't too great as well. We weren't last but we were definitely far from first.
 
 ![Outta' Sight at Competition](/images/stronghold-2016/outta-sight-competition.jpg)
+
 # Our Shortcomings
 
 This year could  have benefited from focusing on just the terrain. Our arm wasn't up to the stress of the competition and although it was a good idea the work put into it couldn't be full realized since it broke during the competition.
