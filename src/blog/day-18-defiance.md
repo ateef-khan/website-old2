@@ -17,7 +17,7 @@ Communications is just stylizing the website and still making the archive of all
 
 Drive Team is driving and getting familiar with how the robot maneuvers, spins, grabs, turns, and delivers to the exchange.
 
-![Dylan holding the Exchange](/images/20180126/dylan-one-handing-the -exchange.jpg)
+![Dylan holding the Exchange](/images/20180126/dylan-one-handing-the-exchange.jpg)
 
 Logistics is trying to organize the files from Google Drive, so that we can move them onto the website. He is also working on finding what sponsors have sponsored us in the past.
 
