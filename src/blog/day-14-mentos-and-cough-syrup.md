@@ -1,5 +1,5 @@
 ---
-title: Day 14 - Mentos and cough syrup
+title: Day 14 - Mentos and Cough Syrup
 date: 2018-01-22 00:00:00
 updated: 2018-01-22 00:00:00
 author: Marshall McInerney (Ready for action(and equal and opposite reaction))
