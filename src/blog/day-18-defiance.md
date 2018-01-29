@@ -1,5 +1,5 @@
 ---
-title: Day 18 - One Meal Per Team
+title: Day 18 - Defiance
 date: 2018-01-26 00:00:00
 updated: 2018-01-26 00:00:00
 author: Marshall McInerney (Your pilot and co-pilot)
