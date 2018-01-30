@@ -25,7 +25,7 @@ Here you can see the Mechanical team working on testing the Fixed intake. It wor
   <iframe src="https://www.youtube.com/embed/2dNZvUrMAvY" allowfullscreen></iframe>
 </div>
 
-Communications is down to the King now my peasants and the traitor have headed for home. I will have finished all the archives of past years except for 2009 our Rookie year.
+Communications is down to the King now my peasants and the traitor have headed for home. I will have finished all the archives of past years. There will also be videos showing what we did today.
 
 Electrical is creating a subsystem to control the motors on the arm allowing for intake and release. They are also creating a system to get feedback through LEDs. As for intake they are trying to find what angles they need to approach the cube to succeed in getting it as well as a system for intake.
 
