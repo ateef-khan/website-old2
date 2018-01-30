@@ -2,7 +2,7 @@
 title: Day 15 - Suspicious Disappointment
 date: 2018-01-23 00:00:00
 updated: 2018-01-23 00:00:00
-author: Marshall McInerney (All lubed up and ready to cry)
+author: Marshall McInerney (Fixing Motors for Intakes and Lifting Mechanisms)
 ---
 
 Dear Diary,
@@ -10,7 +10,7 @@ Today while i was walking i noticed the groups hard at work and I just have to l
 
 For example, Mechanical is busy working on lifting Mechanism instead of just a grabbing mechanism so thats pretty cool. the puddle they sit next to is slowly evaporating and its almost gone so that'll be a major update, I'll keep you notified.
 
-Electronics is busy fixing current motor intakes so the motor doesn't burn out. They're also seeing the variable of a starting point to see if they start it at a different place if it can end where they want it, and still making it end straight.  
+Electronics is busy fixing current motor intakes so the motor doesn't burn out. They're also seeing the variable of a starting point to see if they start it at a different place if it can end where they want it, and still making it end straight.
 
 ![Robo Race](/images/20180123/race.jpg)
 

@@ -2,7 +2,7 @@
 title: Day 20 - All Quiet on the Western Front
 date: 2018-01-29 00:00:00
 updated: 2018-01-29 00:00:00
-author: Tanvir Hussain (Corporal and Commander)
+author: Tanvir Hussain (Testing Mechanisms and Reading Response)
 ---
 
 The true King has returned my friends. Marshall the tyrant has become ill with the plague and is now stuck at home leaving me to right the wrongs that have been done in my absence.
