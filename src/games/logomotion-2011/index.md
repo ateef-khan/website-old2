@@ -5,11 +5,9 @@ layout: page.hbs
 
 WE FINALLY WON THIS YEAR!!! During our Las Vegas Regional we were picked to be on an alliance that ended up winning the Las Vegas Regional. This was a great year for us and we should follow this as an example for future years.
 
-This is a video from the San Diego Regional. We lose the match but its one of the better videos to see our robot in.
+This is a video from the San Diego Regional. This is not the regional we won at but it still shows how great our robot was
 
-<div class="videowrapper">
-  <iframe src="https://www.youtube.com/embed/V3YaV2gBIsE" allowfullscreen></iframe>
-</div>
+[Qualification 4 at San Diego](https://www.thebluealliance.com/match/2011sdc_qm4)
 
 # Our Plan
 
