@@ -2,7 +2,7 @@
 title: Day 13 - Justice Served
 date: 2018-01-20 00:00:00
 updated: 2018-01-20 00:00:00
-author: Marshall McInerney (Cold Sweet Justice)
+author: Marshall McInerney (Mounting Mechanisms and Intake and Release)
 ---
 
 A criminal meets sweet justice as he walked into this robotics meeting today, to face his fate and the punishment for theft of goods. It is a beautiful day and in addition to the glorious sentence we have today made history as this is when the real work starts. Unite! Brothers and sisters! Today is the day the work gets started.
