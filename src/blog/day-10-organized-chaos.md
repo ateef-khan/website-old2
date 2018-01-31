@@ -1,8 +1,9 @@
 ---
 title: Day 10 - 0rganized Chaos
+subtitle: (Starting to build Prototypes, encoders and starting Autonomous)
 date: 2018-01-17 00:00:00
 updated: 2018-01-17 00:00:00
-author: Marshall McInerney (Starting to build Prototypes, encoders and starting Autonomous)
+author: Marshall McInerney
 ---
 The Labor continues on till the shadows lengthen and the moon rises, we are the robotics team and we do not stop until we're done, or our moms come to pick us up because its dinner time.
 

@@ -1,8 +1,9 @@
 ---
 title: Day 15 - Suspicious Disappointment
+subtitle: (Fixing Motors for Intakes and Lifting Mechanisms)
 date: 2018-01-23 00:00:00
 updated: 2018-01-23 00:00:00
-author: Marshall McInerney (Fixing Motors for Intakes and Lifting Mechanisms)
+author: Marshall McInerney
 ---
 
 Dear Diary,
