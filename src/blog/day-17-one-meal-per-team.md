@@ -1,8 +1,9 @@
 ---
 title: Day 17 - One Meal Per Team
+subtitle: (Testing Intakes and Jaguar Calibration)
 date: 2018-01-25 00:00:00
 updated: 2018-01-25 00:00:00
-author: Tanvir Hussain (Testing Intakes and Jaguar Calibration)
+author: Tanvir Hussain
 ---
 
 Sooooo...I never thought we would have a day that consisted of less people than last year. But I guess finals are more of a priority than Robotics who knew?
