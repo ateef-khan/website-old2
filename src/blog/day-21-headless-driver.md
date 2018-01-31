@@ -25,7 +25,7 @@ Communications is focused on finding quotes for Vikings pins as well as finding 
 
 Drive team is running a obstacle course to get better at driving while Logistics is finding the team's contacts to past sponsors to update continuity.
 
-
+The Driver and Operator are getting pretty good at grabbing and releasing cubes.
 
 Electrical and Software is doing a lot of things today. One group is finding the best settings to allow the robot to travel to the Scale or the Switch, they are also calibrating encoders. While the other group is focusing on the tuning PID which allows for smoother turning, making CAD models for the electronics layout and creating arm control software to allow for more stability.
 
