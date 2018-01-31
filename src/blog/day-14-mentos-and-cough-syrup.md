@@ -1,8 +1,8 @@
 ---
-title: Day 14 - Mentos and cough syrup
+title: Day 14 - Mentos and Cough Syrup
 date: 2018-01-22 00:00:00
 updated: 2018-01-22 00:00:00
-author: Marshall McInerney (Ready for action(and equal and opposite reaction))
+author: Marshall McInerney (Building Intakes and creating a new Controller)
 ---
 
 After a vigorous and passionate session of robotics I sit down and type out the blog to give everyone a little insight into what exactly we are doing today.

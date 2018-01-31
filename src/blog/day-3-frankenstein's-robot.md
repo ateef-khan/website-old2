@@ -2,7 +2,7 @@
 title: Day 3 - Frankenstein's Robot
 date: 2018-01-09 00:00:00
 updated: 2018-01-13 00:00:00
-author: Marshall McInerney and Tanvir Hussain
+author: Marshall McInerney and Tanvir Hussain (Plans for Field Elements and working on the Roborio)
 ---
 
 The work continues as software troubleshoots getting the Roborio to work with the robot. Once they get it working the robot will BE ALIVE!!!! ALIVE!!!!!

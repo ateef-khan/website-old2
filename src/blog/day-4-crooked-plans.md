@@ -2,7 +2,7 @@
 title: Day 4 - Crooked Plans
 date: 2018-01-10 00:00:00
 updated: 2018-01-13 00:00:00
-author: Marshall McInerney and Tanvir Hussain
+author: Marshall McInerney and Tanvir Hussain (Exchange Built and Old robot running)
 ---
 
 Software got the old robot running! Make sure you wear shinguards...

@@ -2,7 +2,7 @@
 title: Day 16 - Liberate the Nut
 date: 2018-01-24 00:00:00
 updated: 2018-01-24 00:00:00
-author: Tanvir Hussain
+author: Tanvir Hussain (Second to last day for Prototyping)
 ---
 
 Today we go back to our roots with all teams having one person each...

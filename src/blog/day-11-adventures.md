@@ -2,7 +2,7 @@
 title: Day 11 - Adventures of Big Boy Jr.
 date: 2018-01-18 00:00:00
 updated: 2018-01-18 00:00:00
-author: Marshall McInerney (Big Boy Sr.)
+author: Marshall McInerney (Prototype group and Autonomous efficiency)
 ---
 
 As the music gets worse and the food gets more plentiful as we stock up and set in, we all come to the realization that like Tom Hanks in Cast Away, we need more friends. The team has elected Blocky (My son now) as our inspiration in these trying times. we now follow his adventures:
