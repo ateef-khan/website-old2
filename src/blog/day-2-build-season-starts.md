@@ -1,8 +1,9 @@
 ---
 title: Day 2 - Build Season Starts
+subtitle: (Designing Field Elements and working on the Roborio)
 date: 2018-01-08 00:00:00
 updated: 2018-01-13 00:00:00
-author: Marshall McInerney and Tanvir Hussain (Designing Field Elements and working on the Roborio)
+author: Marshall McInerney and Tanvir Hussain
 ---
 
 The Build Season has begun!
