@@ -1,8 +1,9 @@
 ---
 title: Day 7 - hindenbot
+subtitle: (Chassis built and Controls updated)
 date: 2018-01-13 00:00:00
 updated: 2018-01-13 00:00:00
-author: Marshall McInerney and Tanvir Hussain (Chassis built and Controls updated)
+author: Marshall McInerney and Tanvir Hussain
 ---
 Wrapping up from a week of working, we see what we have accomplished.
 

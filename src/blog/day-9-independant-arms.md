@@ -1,8 +1,9 @@
 ---
 title: Day 9 - Independent Arms
+subtitle: (Finalizing Prototype designs and autonomous to the switch)
 date: 2018-01-16 00:00:00
 updated: 2018-01-16 00:00:00
-author: Tanvir Hussain and Marshall McInerney (Finalizing Prototype designs and autonomous to the switch)
+author: Tanvir Hussain and Marshall McInerney
 ---
 
 After a six hours of classes we sit down for another 3 hours of Robotics.

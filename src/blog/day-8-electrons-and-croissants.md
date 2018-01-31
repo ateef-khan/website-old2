@@ -1,8 +1,9 @@
 ---
 title: Day 8 - Electrons and Croissants
+subtitle: (Designing Prototypes and Forward Autonomous)
 date: 2018-01-15 00:00:00
 updated: 2018-01-15 00:00:00
-author: Tanvir Hussain (Designing Prototypes and Forward Autonomous)
+author: Tanvir Hussain
 ---
 
 For many high schoolers Martin Luther King Day means a three-day weekend to kick and relax. For the students in Robotics it means another 8 hour day at school...*half-hearted* Robotics!

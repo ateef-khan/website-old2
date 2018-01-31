@@ -1,8 +1,9 @@
 ---
 title: Day 5 - Content Workers
+subtitle: (Switch Built and Path Following)
 date: 2018-01-11 00:00:00
 updated: 2018-01-13 00:00:00
-author: Marshall McInerney and Tanvir Hussain (Switch Built and Path Following)
+author: Marshall McInerney and Tanvir Hussain
 ---
 
 Software attempts to make the robot be able to follow a path it sees, to target peop- I mean switches.

@@ -1,8 +1,9 @@
 ---
 title: Day 6 - Maps Of The Town
+subtitle: (Motors and Driving Programs)
 date: 2018-01-12 00:00:00
 updated: 2018-01-13 00:00:00
-author: Marshall McInerney and Tanvir Hussain (Motors and Driving Programs)
+author: Marshall McInerney and Tanvir Hussain
 ---
 
 The map of the playing area  and archetypes for diagrams are up. Now we can refer to the place where we can filp the robot upside down.
