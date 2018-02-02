@@ -3,7 +3,7 @@ title: Day 21 - Headless Driver
 subtitle: (Gathering Data on Mechanisms and Efficient turning, autonomous, and encoders)
 date: 2018-01-30 00:00:00
 updated: 2018-01-30 00:00:00
-author: Tanvir Hussain
+author: Tanvir Hussain (Missing Marshall)
 ---
 
 Marshall is yet again sick and I have to take over writing his daily job. Dylan is gone, I believe that Marshall had some effect on his absence...

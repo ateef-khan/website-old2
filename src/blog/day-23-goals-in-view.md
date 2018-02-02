@@ -3,7 +3,7 @@ title: Day 23 - Goals In View
 subtitle: (Creating Scale Mechanisms)
 date: 2018-02-01 00:00:00
 updated: 2018-02-01 00:00:00
-author: Tanvir Hussain
+author: Tanvir Hussain (Watcher of Blogs)
 ---
 
 We are close to the chasm, the chasm of Failed Deadlines...but hey if we didn't fall in it wouldn't be Robotics. Let's hope we can be a little less stressed next year.

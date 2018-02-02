@@ -3,7 +3,7 @@ title: Day 14 - Mentos and Cough Syrup
 subtitle: (Building Intakes and creating a new Controller)
 date: 2018-01-22 00:00:00
 updated: 2018-01-22 00:00:00
-author: Marshall McInerney
+author: Marshall McInerney (Sickly)
 ---
 
 After a vigorous and passionate session of robotics I sit down and type out the blog to give everyone a little insight into what exactly we are doing today.

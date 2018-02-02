@@ -3,7 +3,7 @@ title: Day 19 - Troubles in Paradise
 subtitle: (Making Intakes, LEDs, and Autonomous)
 date: 2018-01-27 00:00:00
 updated: 2018-01-27 00:00:00
-author: Marshall McInerney
+author: Marshall McInerney (The True King)
 ---
 
  I don't have much time, i need to write this before they come to get me. I am the last Survivor. Everyone else has changed. Ever since Tanvir left, I've become king of Communications and taken on a Queen of a certain Dominique Hartman, but some insurgent cells aren't too keen on me having that much power, just a blogger from rags to riches. I AM THE LORD. NONE GO AGAINST MY IRON RULE! SIC SEMPER TYRANNIS.

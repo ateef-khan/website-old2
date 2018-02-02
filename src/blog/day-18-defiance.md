@@ -3,7 +3,7 @@ title: Day 18 - Defiance
 subtitle: (Scale Mechanism and Efficient Autonomous)
 date: 2018-01-26 00:00:00
 updated: 2018-01-26 00:00:00
-author: Marshall McInerney
+author: Marshall McInerney (Your Pilot and Co-Pilot)
 ---
 
 Sorry I've been gone the past couple days but finals have been crazy! You wouldn't believe how hard they were. But now we can get back to Robotics.

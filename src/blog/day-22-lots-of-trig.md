@@ -3,7 +3,7 @@ title: Day 22 - Lots of Trig
 subtitle: (Gathering Data on Mechanisms and Efficient turning, autonomous, and encoders)
 date: 2018-01-31 00:00:00
 updated: 2018-01-31 00:00:00
-author: Tanvir Hussain
+author: Tanvir Hussain (Trigonometry Master)
 ---
 
 Half way through the season and half way through the building phase. Today is the second day full of trig and calculations to further discuss the feasibility of our scale mechanism.
