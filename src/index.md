@@ -34,11 +34,11 @@ Robotics isn't just for STEM oriented students, we need a variety of people...in
 
 # Why not Join?
 
-All you need to join is a want to have fun and learn more. Our season starts early January and goes until late February. During this time we met everyday except for Sundays. It is not necessary to be at every meeting to be part of the team.
+All you need to join is a want to have fun and a drive to learn more. Our season starts early January and goes until late February. During this time we meet everyday except for Sundays. On weekdays we meet from 2:50pm to 6:00pm and on Saturdays from 10am-6pm. It is not necessary to be at every meeting to be part of the team.
 
-We meet at Mrs.Saddler's Room 908. Feel free to come after this season ends if you have any interest in joining.
+We meet at Mrs.Saddler's Room 908 every Wednesday. Feel free to come after this season ends if you have any interest in joining.
 
-We work on fundraising and recruiting new members year round! Our team hosts a table at Club Day and Welcome to LJHS events. We also visit local our local elementary and middle schools to provide information and foster and interest in engineering in younger students.
+We work on fundraising and recruiting new members year round! Our team hosts a table at Club Day and Welcome to LJHS events. We also visit local our local elementary and middle schools to provide information and foster an interest in engineering in younger students.
 
 We also volunteer at local elementary schools to keep kids interested in robotics.
 
