@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+{{#each posts as |post|}}
+  <entry>
+    <id>{{post.path}}</id>
+      <title>{{post.title}}</title>
+      <author>
+        <name>
+          {{post.author}}
+        </name>
+
+      </author>
+      <updated>
+        {{post.updated}}
+      </updated>
+  </entry>
+{{/each}}
