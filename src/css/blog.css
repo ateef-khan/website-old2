@@ -17,6 +17,7 @@ article header h1 {
 article header h2 {
   font-size: 90%;
   color: #a0a0a0;
+  margin-bottom: 0.5em;
 }
 
 article header a {
