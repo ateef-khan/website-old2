@@ -18,7 +18,7 @@ Four main parameters were adjusted:
 - **Height of Intake Wheels.** Should be as high as possible to allow easy over-the-back delivery of cube to scale.
 - **Wheel Rotational Speed.** Slower speeds might lead to more controlled intake, but this parameter wasn't varied much.
 
-The study consisted of mounting the intake to the front of an AndyMark COTS chassis. The top of the intake wheels was about 6 inches from the groung. Full power was applied to the intake motors and the chassis was driven foward with wheels spinning at full power. Both chassis and cube (with cover) were placed on a well-worn carpet. Three feeding situations were used: face; vertex, and tilted (between face and edge). Scores are reported as the fraction of five intakes that completed face-on.
+The study consisted of mounting the intake to the front of an AndyMark COTS chassis. The top of the intake wheels was about 6 inches from the ground. Full power was applied to the intake motors and the chassis was driven forward with wheels spinning at full power. Both chassis and cube (with cover) were placed on a well-worn carpet. Three feeding situations were used: face; vertex, and tilted (between face and edge). Scores are reported as the fraction of five intakes that completed face-on.
 
 | Trial | Back Width | Arm Length | Gap     | Orientation | Score | Wheels | Notes      |
 |-------|------------|------------|---------|-------------|-------|--------|------------|
@@ -54,4 +54,4 @@ Narrow intakes were more prone to damage by edge-fed cubes. This is understandab
 
 Intakes mounted with the top of wheels against the top of the cube misfed in edge-feed situations. The cube tilted forward, rather than being drawn in parallel to the ground.
 
-Intakes mounted with wheels three inches from the top of the cube could ingest, but not eject a cube. Intake wheels lost tracktion after becomming lodged withing the cutout forming the handle of the milk crate. As a result, any intake system based on this design must be mounted with the top of the intake wheels no higher than 7 1/2 inches from the ground.
+Intakes mounted with wheels three inches from the top of the cube could ingest, but not eject a cube. Intake wheels lost traction after becoming lodged within the cutout forming the handle of the milk crate. As a result, any intake system based on this design must be mounted with the top of the intake wheels no higher than 7 1/2 inches from the ground.
