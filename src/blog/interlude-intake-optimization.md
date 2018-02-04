@@ -18,7 +18,7 @@ Four main parameters were adjusted:
 - **Height of Intake Wheels.** Should be as high as possible to allow easy over-the-back delivery of cube to scale.
 - **Wheel Rotational Speed.** Slower speeds might lead to more controlled intake, but this parameter wasn't varied much.
 
-The study consisted of mounting the intake to the front of an AndyMark COTS chassis. The top of the intake wheels was about 6 inches from the ground. Full power was applied to the intake motors and the chassis was driven forward with wheels spinning at full power. Both chassis and cube (with cover) were placed on a well-worn carpet. Three feeding situations were used: face; vertex, and tilted (between face and edge). Scores are reported as the fraction of five intakes that completed face-on.
+The study consisted of mounting the intake to the front of an AndyMark COTS chassis. The top of the intake wheels was about 6 inches from the ground. Full power was applied to the intake motors and the chassis was driven forward. Both chassis and cube (with cover) were placed on a well-worn carpet. Three feeding situations were used: face; edge, and tilted (between face and edge). Scores are reported as the fraction of five intakes that completed face-on.
 
 | Trial | Back Width | Arm Length | Gap     | Orientation | Score | Wheels | Notes      |
 |-------|------------|------------|---------|-------------|-------|--------|------------|
