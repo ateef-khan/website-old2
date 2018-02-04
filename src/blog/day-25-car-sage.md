@@ -1,6 +1,6 @@
 ---
 title: Day 25
- - Obstacle Course
+ Car Sage
 subtitle: (Changing to Wide Chassis and preparing for building arm)
 date: 2018-02-03 00:00:00
 updated: 2018-02-03 00:00:00
@@ -18,6 +18,8 @@ Mechanical is engulfing members of Electrical like a man in the Sahara drinks wa
 ![Working on Chassis](/images/20180203/working-on-chassis.jpg)
 
 Mechanical is split into two groups one is focusing on building the intake while the hodgepodge of Electrical and Mechanical members continues to finish the wide Chassis. We have plans to finish both projects by the end of the day. They are also focusing on trying to finalizing the plans for Sorcerer (The Scale Mechanism) as well as eating more junk food.
+
+Aden has retreated to his car and has now become Car Sage.
 
 ![Carputer](/images/20180203/carputer.jpg)
 
