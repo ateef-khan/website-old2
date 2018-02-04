@@ -10,7 +10,7 @@ The team has spent some time optimizing a simple intake built from three 2x2 woo
 
 ![Design of Intake](/images/20180203/design-of-intake.png)
 
-Four main parameters were adjusted:
+Five main parameters were adjusted:
 
 - **Back Width.** Controls the space between the intake wheels and intake width.
 - **Arm Length.** Determines the length of the channel and ability of the cube to straighten when edge-fed.
