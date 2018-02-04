@@ -3,7 +3,7 @@ title: Day 1 - Power Up 2018 Kickoff
 subtitle: (Planning the Robot Design)
 date: 2018-01-06 00:00:00
 updated: 2018-01-13 00:00:00
-author: Marshall McInerney Tanvir Hussain
+author: Marshall McInerney, Tanvir Hussain
 ---
 
 The game has been revealed! The team attended a kickoff at Kearny Mesa High School. GO HAMMERHEADS!!!!!
