@@ -1,16 +1,28 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>La Jolla High School Robotics</title>
+  <link>http://www.ljrobotics.org</link>
+  <description>Webpage of the Vikings</description>
+  <item>
+    <title>Link to the blog</title>
+  <guid isPermaLink="false">http:/ljrobotics.org/blog/
+  </guid>
+</item>
 {{#each posts as |post|}}
-  <entry>
-    <id>{{post.path}}</id>
+  <item>
+
       <title>{{post.title}}</title>
-      <author>
-        <name>
-          {{post.author}}
-        </name>
+      <author>ljhsvikingrobotics@gmail.com ({{post.author}})
 
       </author>
-      <updated>
-        {{post.updated}}
-      </updated>
-  </entry>
+
+
+      <link>http://ljrobotics.org/{{post.path}}
+    </link>
+  </item>
+
 {{/each}}
+</channel>
+</rss>
