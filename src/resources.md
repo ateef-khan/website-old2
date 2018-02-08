@@ -27,6 +27,8 @@ layout: page.hbs
 - [Vikings Team Manual](/courses/team-manual/)
 - [Vikings Safety Guide](/courses/safety-guide/)
 - [How to Order Shirts](/courses/how-to-order-shirts/)
+- [Team 2984 Forum](https://groups.google.com/forum/#!forum/team2984)
+
 # Third Party Documentation
 
 - [First Robotics Competition Pneumatics Manual](/pdfs/pneumatics-manual.pdf)
