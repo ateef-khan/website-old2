@@ -32,4 +32,6 @@ The bumpers should look like this... then all we need is the covers...
 
 ![Bumpers](/images/20180207/bumper.jpg)
 
+The Quote of the Day "I kneed a metal frame!"
+
 The mood is plays.
