@@ -28,6 +28,7 @@ layout: page.hbs
 - [Vikings Safety Guide](/courses/safety-guide/)
 - [How to Order Shirts](/courses/how-to-order-shirts/)
 - [Team 2984 Forum](https://groups.google.com/forum/#!forum/team2984)
+- [2018 Onshape Robot](https://cad.onshape.com/documents/c25b6e33afa0deb23647eb4b/w/867857abf41225d617f9678b/e/dacda856b6b4e3c78fc22636)
 
 # Third Party Documentation
 
