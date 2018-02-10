@@ -12,11 +12,11 @@ This page calculates the maximum number of points that can be obtained by a perf
 
 | Period | Activity | Points | Ranking Points |
 | -------- | ------ | -------------- |
-| Auto | Cross autoline | 15 | |
-| | Own Switch | 32 | 1 |
+| Auto | Cross autoline | 15 | 1 |
+| | Own Switch | 32 | |
 | | Own Scale | 32 | |
 | Teleop | Own Switch | 136 | |
-| | Own scale | 136 | |
+| | Own Scale | 136 | |
 | | 9 Cubes in Vault | 45 | |
 | | Boost Powerup | 20 | |
 | | Climb | 90 | 1 |
