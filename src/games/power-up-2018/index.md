@@ -35,6 +35,7 @@ Our plan is to make the most viable prototypes early on as to try and get the be
 - [Penalties](/games/power-up-2018/penalties/)
 - [Points Analysis](/games/power-up-2018/points-analysis/)
 - [Archetypes](/games/power-up-2018/archetypes/)
+- [Playbook](/games/power-up-2018/playbook/)
 
 # Game Resources
 
