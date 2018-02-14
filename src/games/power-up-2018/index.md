@@ -9,6 +9,7 @@ layout: page.hbs
 - [Game Manual](/pdfs/power-up-2018/manual.pdf)
 - [Game Manual Update 7 (combined Team Update)](/pdfs/power-up-2018/manual-update-07.pdf)
 - [Live Game Field](https://cad.onshape.com/documents/9296b2e73daefa64660bc992/w/5092c5455497b9f5953b85b0/e/3dc1d546866866a0aca4fe2b)
+- [2018 Onshape Robot](https://cad.onshape.com/documents/c25b6e33afa0deb23647eb4b/w/867857abf41225d617f9678b/e/dacda856b6b4e3c78fc22636)
 
 # Our Plan
 
