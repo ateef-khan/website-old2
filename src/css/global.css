@@ -79,6 +79,10 @@ body>footer img {
   display: block;
 }
 
+.background-color {
+
+    background-color: #8A8A8A;
+}
 @media only screen and (min-width: 500px) {
   .internal-logo {
     display: inline;
