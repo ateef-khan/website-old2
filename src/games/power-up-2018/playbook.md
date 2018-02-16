@@ -31,6 +31,6 @@ F : Friend
 | Helpful but could be Better | E can do S/Sw, F can do Sw (not S) | Auto: CS. Tele: CS then CESw | ![Play 4](/images/playbook/play-4.jpg) |
 | Triad | E/F can do Sw, E/F cannot do S | Auto: CS. Tele: CESw then BEEx | ![Play 5](/images/playbook/play-5.jpg) |
 | Older Brother | E cannot do S/Sw, F can do Sw (not S) | Auto: CS. Tele: CESw then BEEx | ![Play 6](/images/playbook/play-6.jpg) |
-| Opaaaaaa | E cannot do S/Sw, F can do S/Sw | Auto: CS. Tele: CSw then CESw | ![Play 7](/images/playbook/play-7.jpg) |
+| Opaaaaaa | E cannot do S/Sw, F can do S/Sw | Auto: CS. Tele: CSw then BEEx | ![Play 7](/images/playbook/play-7.jpg) |
 | Cool Uncle | E can do Sw (not S), F can do Sw/S | Auto: CS Tele: CESw then CSw | ![Play 8](/images/playbook/play-8.jpg) |
-| Gladiator Arena | E/F can do S/Sw | Auto: CS. Tele: CS then CSw | ![Play 9](/images/playbook/play-9.jpg) |
+| Gladiator Arena | E/F can do S/Sw | Auto: CS. Tele: CS then CESw | ![Play 9](/images/playbook/play-9.jpg) |
