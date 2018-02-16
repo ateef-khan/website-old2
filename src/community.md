@@ -1,6 +1,8 @@
 ---
- title: Outreach
- layout: page.hbs
+
+title: Outreach
+layout: page.hbs
+
 ---
 
  # Presentations
