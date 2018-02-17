@@ -17,7 +17,7 @@ Electronics and Programming are still doing the autonomous mode, at least thats 
 
 Mechanical is working on building an arm for the robot, it looks alright but Max seems to think it could use a bit more improvement. And once Mechanical finishes that, Electronics can do something else besides autonomous!!!!!!!!
 
-![Tah and Cam](/images/20180213/TahandCam.JPG)
+![Tah and Cam](/images/20180213/TahAndCam.JPG)
 
 Communications has been doing more stylizing stuff and obviously writing the reiteration of the bible. It seems like the team has gotten smaller since we started. Although I haven't counted Lukas or Warren as people lately, so maybe it's just that.
 
