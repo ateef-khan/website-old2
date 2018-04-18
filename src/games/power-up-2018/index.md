@@ -3,6 +3,13 @@ title: Powerup 2018
 layout: page.hbs
 ---
 
+# Google Groups Link and Goals for the next season
+
+- https://groups.google.com/forum/#!forum/team2984
+
+
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vSNmMEJqCEOtwZax0CBJSClBVZaWKHHv5SNnNt9_Bfsua7nId42wbsjqY6NeLSjuziwlBU3or4tRtek/pub?embedded=true" style="border-width:0" width="100%" height="600" frameborder="0" ></iframe>
+
 # Official Documentation
 
 - [Official Game Page](https://www.firstinspires.org/resource-library/frc/competition-manual-qa-system)
