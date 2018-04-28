@@ -1,5 +1,5 @@
 ---
-title: "Driving and Coding"
+title: "Off-season Day 2 - Driving and Coding"
 subtitle: Drive, CAD, Java and wood saw practice
 date: 2018-04-28 00:00:00
 updated: 2018-04-28 00:00:00
