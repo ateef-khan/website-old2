@@ -5,7 +5,7 @@ layout: page.hbs
 
 ## Members
 
-| Members |                  |
+|        |                  |
 - | ------- | ---------------- |
  | **Max Apodaca** (Senior) | **Aden Hibbs** (Senior)|
 - | Electrical and Software Lead | - Mechanical Lead |
