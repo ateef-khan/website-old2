@@ -1,5 +1,5 @@
 ---
-title: Sponsors
+title: Fundraising
 layout: page.hbs
 styles:
   - sponsors
