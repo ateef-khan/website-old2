@@ -1,5 +1,5 @@
 ---
-title: Fundraising
+title: Supporters
 layout: page.hbs
 styles:
   - sponsors
@@ -11,6 +11,8 @@ Vikings Robotics is dependent on donations from people like you!
 We promise to follow our mission statement and help future scientists and engineers make the world a better place.
 
 Thank you for your support!
+
+
 
 ## How your donation will be used
 
@@ -25,6 +27,8 @@ Your donation will be used in one of the following areas:
 
 There are many ways to contribute, you can volunteer to mentor our team,
 you can also donate money via Credit card or Check.
+
+Donations are made via the 501c(3) non-profit LJHS Foundation and are tax deductible
 
 ## Contribute with Credit Card
 
