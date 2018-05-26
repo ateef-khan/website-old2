@@ -3,6 +3,19 @@ title: Resources
 layout: page.hbs
 ---
 
+## Forms
+
+Members are asked to fill out an emergency contact form and take a safety test in order to be at the robotics club. The safety test can be found here along with a guide to help members know what to do and how to be safe.
+
+- [Emergency Contact Form](/pdfs/team-forms/emergency-contact-form.pdf)
+
+YOU DON'T HAVE TO PRINT THE SAFETY TEST!!!!! Just the answers.
+
+Do Problems 1 - 59, 70 - 83, 89, 94 - 95, 113 - 114.
+
+- [Safety Test Study Guide](/pdfs/team-forms/robotics-study-guide.pdf)
+- [Safety Test](/pdfs/team-forms/robotics-safety-test.pdf)
+
 # Games
 
 - [Powerup 2018](/games/power-up-2018/)
