@@ -9,6 +9,10 @@ Members are asked to fill out an emergency contact form and take a safety test i
 
 - [Emergency Contact Form](/pdfs/team-forms/emergency-contact-form.pdf)
 
+- [Parent Agreement](/pdfs/Parent Agreement Viking Robotics 2018-19.pdf)
+
+- [The Team Handbook](/pdfs/team-forms/team-handbook.pdf)
+
 YOU DON'T HAVE TO PRINT THE SAFETY TEST!!!!! Just the answers.
 
 Do Problems 1 - 59, 70 - 83, 89, 94 - 95, 113 - 114.

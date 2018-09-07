@@ -38,6 +38,10 @@ Donations are made via the 501c(3) non-profit LJHS Foundation and are tax deduct
 
 ## Contribute with Check
 
+<strong> Matching Donations </strong>
+
+Many employers will match your donation, please contact us at: </br> <a href="mailto:ljhsfoundation@gmail.com">ljhsfoundation@gmail.com </a> for assistance completing your companies forms.
+
 Make Checks Payable To:
 
 The Foundation of La Jolla High School (RE: Robotics Club)
