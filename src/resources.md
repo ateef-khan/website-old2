@@ -7,11 +7,16 @@ layout: page.hbs
 
 Members are asked to fill out an emergency contact form and take a safety test in order to be at the robotics club. The safety test can be found here along with a guide to help members know what to do and how to be safe.
 
+- [Sign up form](https://goo.gl/forms/SaWoLMADZkbF0iLp1)
+
 - [Emergency Contact Form](/pdfs/team-forms/emergency-contact-form.pdf)
 
 - [Parent Agreement](/pdfs/Parent Agreement Viking Robotics 2018-19.pdf)
 
 - [The Team Handbook](/pdfs/team-forms/team-handbook.pdf)
+
+- [Online Safety Test](https://goo.gl/forms/Talu6hhVzd3b8G7l2)
+
 
 YOU DON'T HAVE TO PRINT THE SAFETY TEST!!!!! Just the answers.
 
