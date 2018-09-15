@@ -8,9 +8,12 @@
 
     {{#block "meta"}}{{/block}}
 
+    <!-- bootstrap styling -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
     <link rel="stylesheet" href="/css/reset.css">
     <link rel="stylesheet" href="/css/global.css">
-
+    
     {{#block "style"}}{{/block}}
 
     <link rel="icon" type="image/png" href="/images/favicon.png">
@@ -30,7 +33,11 @@
     </header>
     <main>
       {{#block "body"}}{{/block}}
+
+      <!--js to fix formatting -->
+      <script src="/js/table.js"></script>
     </main>
+
     {{>footer}}
     {{#block "end-scripts"}}{{/block}}
     {{>analytics}}
