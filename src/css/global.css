@@ -29,6 +29,11 @@ body>header a {
   color: inherit;
 }
 
+body>header a:hover {
+  text-decoration: none;
+  color: inherit;
+}
+
 body>header li {
   display: inline-block;
 }

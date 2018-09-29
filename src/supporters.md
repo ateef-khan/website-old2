@@ -1,19 +1,46 @@
 ---
-title: Sponsors
+title: Supporters
 layout: page.hbs
 styles:
   - sponsors
 ---
+
+# Thank You!
+
+Vikings Robotics is dependent on donations from people like you!
+We promise to follow our mission statement and help future scientists and engineers make the world a better place.
+
+Thank you for your support!
+
+
+
 ## How your donation will be used
 
 Your donation will be used in one of the following areas:
 
-- Registration for the events
+- Registration for The San Diego Regional Competition sponsored by FIRST
 - Parts for the Robot
 - Transportation Costs
-- New Machines/ Repairing Machines
+- New Machines / Repairing Machines
 
-## Contribute by Check
+# How do I contribute?
+
+There are many ways to contribute, you can volunteer to mentor our team,
+you can also donate money via Credit card or Check.
+
+Donations are made via the 501c(3) non-profit LJHS Foundation and are tax deductible
+
+## Contribute with Credit Card
+
+<a href = "https://thefoundationoflajollahigh.formstack.com/forms/academic_robotics_team" target="_blank" rel="external">
+  <img src ="/images/Donate-Button.png" alt = "Donate">
+</a>
+
+## Contribute with Check
+
+<strong> Matching Donations </strong>
+
+Many employers will match your donation, please contact us at: </br> <a href="mailto:ljhsfoundation@gmail.com">ljhsfoundation@gmail.com </a> for assistance completing your companies forms.
 
 Make Checks Payable To:
 
@@ -37,7 +64,8 @@ Mail checks to:
 
 We really appreciate your contribution to our team so that we can compete this year.
 
-# Our Sponsors (in Progress!)
+# Our Sponsors
+
 <a href = "https://www.qualcomm.com" target="_blank" rel="external">
   <img src ="/images/sponsors/qualcomm-logo.svg" alt = "Qualcomm">
 </a>
@@ -47,32 +75,14 @@ We really appreciate your contribution to our team so that we can compete this y
 <a href = "https://www.verance.com/" target="_blank" rel="external">
   <img src ="/images/sponsors/verance.svg" alt = "Verance">
 </a>
-<a href = "http://www.dinigroup.com/web/index.php" target="_blank" rel="external" style="transform: scale(.25, .25);">
-  <img src ="/images/sponsors/dini-group.svg" alt = "DiniGroup">
-</a>
 <a href = "https://www.onshape.com/" target="_blank" rel="external">
   <img src ="/images/sponsors/onshape-logo.svg" alt = "OnShape">
-</a>
-<a href = "https://www.xerox.com/" target="_blank" rel="external" style="transform: scale(20, 20);">
-  <img src ="/images/sponsors/xerox-logo-2008.svg" alt = "Xerox">
-</a>
-<a href = "http://www.acehardware.com/home/index.jsp" target="_blank" rel="external">
-  <img src ="/images/sponsors/ace-hardware-logo.svg" alt = "Ace Hardware">
-</a>
-<a href = "http://www.quasarfs.com/" target="_blank" rel="external">
-  <img src ="/images/sponsors/qfs-logo.svg" alt = "Quasar Federal Systems">
-</a>
-<a href = "http://www.quasarusa.com/" target="_blank" rel="external">
-  <img src ="/images/sponsors/quasar.svg" alt = "Quasar">
 </a>
 <a href = "http://www.solidworks.com/" target="_blank" rel="external">
 <img src ="/images/sponsors/solidWorks-logo.svg" alt = "Solid Works">
 </a>
 <a href = "http://www.copycove.com/" target="_blank" rel="external">
   <img src ="/images/sponsors/copy-cove-logo.svg" alt = "Copy Cove">
-</a>
-<a href = "http://www.sperr.de/" target="_blank" rel="external">
-  <img src ="/images/sponsors/sperr-logo.svg" alt = "Sperr">
 </a>
 
 <div id ="Past_Sponsors">
@@ -88,5 +98,16 @@ We really appreciate your contribution to our team so that we can compete this y
     Pizza On Pearl
     <br>
     The Neurosciences Institute
+    <br>
+    Quasar
+    <br>
+    Sperr
+    <br>
+    Xerox
+    <br>
+    Ace Hardware
+    <br>
+    Solidworks
+
 
 </div>

@@ -5,6 +5,10 @@ layout: page.hbs
 
 ---
 
+ # Volunteer Service
+ 
+ Our team has hundreds of volunteer hours logged with local elementary schools such as Bird Rock and La Jolla Elementary. We help elementary school teams participate in the FIRST Lego League. We also participate in outreach with Muirlands Middle School. We strive with our local community to promote participation in robotics and inspire the next generation of Scientists and Engineers.
+
  # Presentations
 
  As a team we try to do more than just build robots. One of the other things we do is spread awareness of our club to younger students. In the past we have gone to Muirlands middle school as well as Torrey Pines and La Jolla elementary school.
