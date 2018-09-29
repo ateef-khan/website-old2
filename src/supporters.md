@@ -50,7 +50,7 @@ Mail checks to:
 
 <address>
   <p>La Jolla High School</p>
-  <p>Attn: Melanie Saddler</p>
+  <p>Attn: Michelle Stuart</p>
   <p>750 Nautilus St.</p>
   <p>La Jolla, CA 92037</p>
 </address>
