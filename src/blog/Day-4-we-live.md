@@ -19,6 +19,7 @@ Mechanical is busy still making bumpers and assembling thicc-bot. so all general
 
 Communications is meeting Eric Xiao and I'm testing the waters to see how he feels about
 the blossoming friendship and to see his story, he's like an old western cowboy who has seen the world.
+(Even though he's only 18)
 
 Electrical is busy giving java mentors to the new students, and seeing what information Eric has to tell them because he's pretty smart.
 
