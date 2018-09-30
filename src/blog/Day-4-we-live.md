@@ -23,7 +23,7 @@ the blossoming friendship and to see his story, he's like an old western cowboy 
 
 Electrical is busy giving java mentors to the new students, and seeing what information Eric has to tell them because he's pretty smart.
 
-Comms is doing fund raising and blog writing and just kinda collecting information with logistics to see where the team is at and document all these immigrants coming into this team.
+Comms is doing fund raising and blog writing and just kinda collecting information with logistics to see where the team is at and welcome new members with open arms to this team.
 
 Join us on discord <a href="https://discordapp.com/invite/RshDdxa">here</a>
 
