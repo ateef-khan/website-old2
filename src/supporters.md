@@ -64,51 +64,23 @@ Mail checks to:
 
 We really appreciate your contribution to our team so that we can compete this year.
 
-# Our Sponsors
-
-<a href = "https://www.qualcomm.com" target="_blank" rel="external">
-  <img src ="/images/sponsors/qualcomm-logo.svg" alt = "Qualcomm">
+<div style="text-align:center; font-size: 65px"><h1>Our Sponsors</h1></div>
+<div class="sponsor-logos">
+<a href = "https://wowwee.com/" target="_blank" rel="external">
+  <img src ="/images/sponsors/woweeToys.svg" alt = "Wowwee Toys" class = "center">
 </a>
-<a href = "https://www.lockheedmartin.com/us.html" target="_blank" rel="external">
-  <img src ="/images/sponsors/lockheed-martin.svg" alt = "Lockheed Martin">
+
+<a href = "https://www.perkins.com/" target="_blank" rel="external">
+  <img src ="/images/sponsors/perkinsLogo.svg" alt = "Perkins Manufacturing" class = "center">
+</a>
+
+<a href = "https://www.kiwanis.org/" target="_blank" rel="external">
+  <img src ="/images/sponsors/kiwanisLogo.svg" alt = "Kiwanis International" class = "center">
 </a>
 <a href = "https://www.verance.com/" target="_blank" rel="external">
-  <img src ="/images/sponsors/verance.svg" alt = "Verance">
-</a>
-<a href = "https://www.onshape.com/" target="_blank" rel="external">
-  <img src ="/images/sponsors/onshape-logo.svg" alt = "OnShape">
-</a>
-<a href = "http://www.solidworks.com/" target="_blank" rel="external">
-<img src ="/images/sponsors/solidWorks-logo.svg" alt = "Solid Works">
+  <img src ="/images/sponsors/verance.svg" alt = "Verance" class = "center">
 </a>
 <a href = "http://www.copycove.com/" target="_blank" rel="external">
-  <img src ="/images/sponsors/copy-cove-logo.svg" alt = "Copy Cove">
+  <img src ="/images/sponsors/copy-cove-logo.svg" alt = "Copy Cove" class = "center">
 </a>
-
-<div id ="Past_Sponsors">
-  <h1>Past Sponsors:</h1>
-  <h2>Thank you for previously sponsoring us!</h2>
-
-    Viasat
-    <br>
-    IntelliSense
-    <br>
-    Nypro
-    <br>
-    Pizza On Pearl
-    <br>
-    The Neurosciences Institute
-    <br>
-    Quasar
-    <br>
-    Sperr
-    <br>
-    Xerox
-    <br>
-    Ace Hardware
-    <br>
-    Solidworks
-    <br>
-
-
 </div>

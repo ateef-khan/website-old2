@@ -5,10 +5,17 @@
 }
 
 .sponsor-logos {
-  background-color: grey;
-  height: 60px;
+  background-color: white;
+  height: auto;
+  width: auto;
 }
-
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    height: 70%;
+}
 article .main address {
   margin-bottom: 1em;
   background-color: #d0ffd0;
