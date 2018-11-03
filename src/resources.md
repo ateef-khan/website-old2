@@ -46,7 +46,6 @@ Do Problems 1 - 59, 70 - 79, 89, 94 - 95.
 - [Vision Tracking](/courses/vision-tracking/)
 - [SolidWorks](/courses/solidworks/)
 - [Basic Git](/courses/git-basics/)
-- [Vikings Team Manual](/courses/team-manual/)
 - [Vikings Safety Guide](/courses/safety-guide/)
 - [How to Order Shirts](/courses/how-to-order-shirts/)
 - [Team 2984 Forum](https://groups.google.com/forum/#!forum/team2984)

@@ -1,8 +1,8 @@
 ---
 title: WE LIVE!
 subtitle: (Not dying)
-date: 2018-09-15 00:00:00
-updated: 2018-09-15 00:00:00
+date: 2018-09-21 00:00:00
+updated: 2018-09-21 00:00:00
 author: Lukas & Marshall (I promise not to parody Sherlock Holmes book titles)
 ---
 

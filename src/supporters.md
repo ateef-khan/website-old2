@@ -65,22 +65,32 @@ Mail checks to:
 We really appreciate your contribution to our team so that we can compete this year.
 
 <div style="text-align:center; font-size: 65px"><h1>Our Sponsors</h1></div>
+<div class = "center">
+<div class = "row">
+<div class = "column">
 <div class="sponsor-logos">
 <a href = "https://wowwee.com/" target="_blank" rel="external">
   <img src ="/images/sponsors/woweeToys.svg" alt = "Wowwee Toys" class = "center">
 </a>
-
-<a href = "https://www.perkins.com/" target="_blank" rel="external">
-  <img src ="/images/sponsors/perkinsLogo.svg" alt = "Perkins Manufacturing" class = "center">
-</a>
-
+</div>
+<div class = "column">
 <a href = "https://www.kiwanis.org/" target="_blank" rel="external">
   <img src ="/images/sponsors/kiwanisLogo.svg" alt = "Kiwanis International" class = "center">
 </a>
+</div>
+</div>
+</div>
 <a href = "https://www.verance.com/" target="_blank" rel="external">
   <img src ="/images/sponsors/verance.svg" alt = "Verance" class = "center">
 </a>
 <a href = "http://www.copycove.com/" target="_blank" rel="external">
   <img src ="/images/sponsors/copy-cove-logo.svg" alt = "Copy Cove" class = "center">
 </a>
+
+<div class="smallerHeight">
+<a href = "https://www.perkinscoie.com/en/" target="_blank" rel="external">
+  <img src ="/images/perkinsCoie.svg" alt = "Perkins Coie - Counsel to Great Companies" class = "center">
+</a>
+</div>
+
 </div>
