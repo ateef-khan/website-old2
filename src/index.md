@@ -8,7 +8,7 @@ styles:
 
 ![Team 2984](/images/team/team-photo-2018.jpg)
 
-- [Sign up form](https://goo.gl/forms/SaWoLMADZkbF0iLp1)
+ [Sign up form](https://goo.gl/forms/SaWoLMADZkbF0iLp1)
 
 We are a student run team from La Jolla High school.
 

@@ -1,6 +1,7 @@
 ---
 title: Supporters
 layout: page.hbs
+hide-title: true
 styles:
   - sponsors
 ---
@@ -11,7 +12,6 @@ Vikings Robotics is dependent on donations from people like you!
 We promise to follow our mission statement and help future scientists and engineers make the world a better place.
 
 Thank you for your support!
-
 
 
 ## How your donation will be used
@@ -30,6 +30,7 @@ you can also donate money via Credit card or Check.
 
 Donations are made via the 501c(3) non-profit LJHS Foundation and are tax deductible
 
+- [Sponsor Documentation]()
 ## Contribute with Credit Card
 
 <a href = "https://thefoundationoflajollahigh.formstack.com/forms/academic_robotics_team" target="_blank" rel="external">
@@ -75,22 +76,27 @@ We really appreciate your contribution to our team so that we can compete this y
 </div>
 <div class = "column">
 <a href = "https://www.kiwanis.org/" target="_blank" rel="external">
-  <img src ="/images/sponsors/kiwanisLogo.svg" alt = "Kiwanis International" class = "center">
+  <img src ="/images/sponsors/kiwanisLogo.svg" alt = "Lockheed Martin" class = "center">
 </a>
 </div>
 </div>
 </div>
+<a href = "https://www.lockheedMartin.com/" target="_blank" rel="external">
+  <img src ="/images/sponsors/lockheed-martin.svg" alt = "Verance" class = "center">
+</a>
 <a href = "https://www.verance.com/" target="_blank" rel="external">
   <img src ="/images/sponsors/verance.svg" alt = "Verance" class = "center">
 </a>
-<a href = "http://www.copycove.com/" target="_blank" rel="external">
-  <img src ="/images/sponsors/copy-cove-logo.svg" alt = "Copy Cove" class = "center">
-</a>
-
 <div class="smallerHeight">
 <a href = "https://www.perkinscoie.com/en/" target="_blank" rel="external">
   <img src ="/images/perkinsCoie.svg" alt = "Perkins Coie - Counsel to Great Companies" class = "center">
 </a>
 </div>
-
+<a href = "https://www.monsanto.com/en/" target="_blank" rel="external">
+  <img src ="/images/Monsanto_logo.svg" alt = "Monsanto Fund" class = "center">
+</a>
 </div>
+
+## Thanks as well
+
+La Jolla Elementary, Viasat, and Copy Cove

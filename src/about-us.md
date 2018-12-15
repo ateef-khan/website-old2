@@ -1,5 +1,6 @@
 ---
 title: About Us
+hide-title: true
 layout: page.hbs
 ---
 
