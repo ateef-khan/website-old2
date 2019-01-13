@@ -18,6 +18,6 @@ Communications might actually decide to be useful for once but probably not.
 As always we appreciate donations and join us on discord for more information.
 ![A Failure](/images/cameron.jpg)
 
-Donate to us <a href="https://thefoundationoflajollahigh.formstack.com/forms/academic_robotics_team">here</a>
+
 
 Join us on discord <a href="https://discordapp.com/invite/RshDdxa">here</a>

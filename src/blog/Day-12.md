@@ -9,6 +9,6 @@ Welcome to the season kick off, with kick off comes announcements and the game, 
 
 The game has been outlined in multiple videos and pdfs, which will be added to the resources section of the website. Vikings Robotics would also appreciate that before coming to the meeting that a clear understanding of the rules of the game are had before coming to the meeting, as there will not be time to bring you up to speed.
 
-Donate to us <a href="https://thefoundationoflajollahigh.formstack.com/forms/academic_robotics_team">here</a>
+
 
 Join us on discord <a href="https://discordapp.com/invite/RshDdxa">here</a>

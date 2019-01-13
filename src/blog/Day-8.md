@@ -16,6 +16,5 @@ We at Vikings robotics have a firm belief that we can do whatever we put our min
 we can't do it without support. We thank all of our sponsors, donors, and families who contribute to us
 and offer our sincerest gratitude to them.
 
-Donate to us <a href="https://thefoundationoflajollahigh.formstack.com/forms/academic_robotics_team">here</a>
 
 Join us on discord <a href="https://discordapp.com/invite/RshDdxa">here</a>

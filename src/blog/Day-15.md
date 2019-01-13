@@ -13,6 +13,6 @@ Communications might actually finish something for once on the bright side, and 
 
 The season might be successful, we hope for good fortune and pray that it works.
 
-Donate to us <a href="https://thefoundationoflajollahigh.formstack.com/forms/academic_robotics_team">here</a>
+
 
 Join us on discord <a href="https://discordapp.com/invite/RshDdxa">here</a>
