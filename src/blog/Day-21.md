@@ -7,8 +7,8 @@ author: Lukas Koziol (A slow day)
 ---
 
 The past week has been very slow, while the robot slowly gets completed, there are 16 meetings left in the season.
-With 16 meetings lefet, our logistics team lead has become antsy and made threats of violence to create enough buzz to
-create a blogpost. While this is likely in jest, the regular saturday blogpost will also be posted on saturday.
+With 16 meetings left, our logistics team lead has become antsy and made threats of violence to create enough buzz to
+create a blogpost. While this is likely in jest, the regular Saturday blogpost will also be posted on Saturday.
 
 As always, please donate and tell mechanical to hurry it up.
 
