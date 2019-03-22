@@ -2,7 +2,7 @@
 title: The Del Mar Super Blog
 subtitle: (Here we are)
 date: 2019-03-1 00:00:00
-updated: 2019-02-3 00:00:00
+updated: 2019-03-3 00:00:00
 author: Lukas Koziol (AHHHHH)
 ---
 The Del Mar regional was a blast, through it all, the memories, the people and the experience it was a roller coaster. We made the semifinals again, we made new friends (shoutout to team 4984 and team 2102) and had a blast while doing it.
