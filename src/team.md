@@ -1,8 +1,18 @@
 ---
 title: Team
 layout: page.hbs
+styles:
+  - teamLukas.css
 ---
-Our team is made up of multiple people, and is a constant process of negotiating competing and different ideas to ultimately build a robot for competition.
+
+<div class="row">
+
+    <img src="/images/alumniPics/dylanAlumni.png" alt="Dylan" style="width:33.33%">
+    <img src="/images/alumniPics/tanvirAlumni.png" alt="Tanvir" style="width:33.33%" style="height:80%" >
+    <img src="/images/alumniPics/maxAlumni.png" alt="Max" style="width:33.33%" style="height:80%" >
+</div>
+
+<!--
 ## Team leads
  -Drive
  -Electrical
@@ -12,10 +22,12 @@ Our team is made up of multiple people, and is a constant process of negotiating
 # Mentors
 
 # Alumni
+
+## 2018 Alumni
 -Tanvir
 -Steven
 -Max
 -Cassie
 -Dylan
 
-(Since 2018)
+-->

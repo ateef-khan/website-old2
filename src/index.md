@@ -6,7 +6,7 @@ styles:
   - index
 ---
 
-![Team 2984](/images/team/team-photo-2018.jpg)
+![Team 2984](/images/team-photo-2019.jpg)
 
  [Sign up form](https://goo.gl/forms/SaWoLMADZkbF0iLp1)
 
