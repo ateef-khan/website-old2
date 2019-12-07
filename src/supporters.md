@@ -36,7 +36,7 @@ Donations are made via the 501c(3) non-profit LJHS Foundation and are tax deduct
 
 You will have to select the robotics team from the dropdown menu of academic departments.
 
-<a href = "https://thefoundationoflajollahigh.formstack.com/forms/academic_donation" target="_blank" rel="external">
+<a href = "https://www.foundationofljhs.com/donate-to-academics.html#roboticsteam" target="_blank" rel="external">
   <img src ="/images/Donate-Button.png" alt = "Donate">
 </a>
 
