@@ -145,7 +145,7 @@ Here is a robot image:
 
 ![2016 Robot](/images/2016Robot.jpg)
 
-Here is a bulleted list:
+Here is a bullet list:
 
 - one
 - two
